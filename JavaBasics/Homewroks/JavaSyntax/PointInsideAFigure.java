@@ -4,6 +4,7 @@ public class PointsInsideAFigure {
 	//Write a program to check whether a point is inside or outside of the figure below. 
 	//The point is given as a pair of floating-point numbers,separated by a space.
 	//Your program should print "Inside" or "Outside". 
+	
 	public static void main(String[] args) {
 		//Read the input from the console
 		Scanner reader = new Scanner(System.in);
