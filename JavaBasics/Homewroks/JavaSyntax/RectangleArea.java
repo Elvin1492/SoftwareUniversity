@@ -2,7 +2,8 @@ import java.util.Scanner;
 
 public class RectangleArea {
 	//Write a program that enters the sides of a rectangle (two integers a and b)
-	//and calculates and prints the rectangle's area. Examples:
+	//and calculates and prints the rectangle's area.
+	
 	public static void main(String[] args) {
 		//Read the input from the console
 		Scanner reader = new Scanner(System.in);
