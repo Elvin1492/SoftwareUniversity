@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class DecimalToHexadecimal {
 	//Write a program that enters a positive integer number num and converts and prints it 
 	//in hexadecimal form. You may use some built-in method from the standard Java libraries
+	
 	public static void main(String[] args) {
 		//Read the input from the console
 		Scanner reader = new Scanner(System.in);
@@ -14,6 +15,7 @@ public class DecimalToHexadecimal {
 		String result = Integer.toHexString(number);
 		System.out.println(result);
 	}
+	
 	//A method to convert the decimal number to its hexadecimal value
 	public static void decimalToHexadecimal(int number){
 		int remainder = 0;
