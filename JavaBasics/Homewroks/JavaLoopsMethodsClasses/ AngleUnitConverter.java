@@ -13,22 +13,25 @@ public class AngleUnitConverter {
 	  System.out.println("Enter number 'n' to determine the number of entries: ");
 	  int n = Integer.parseInt(reader.nextLine());
 	  double[] numbers = new double[n];
-	  char[] measure = new char[n];
-	  //Read the double and store it in the double array 
-	  //read the next text on the line,get the first letter from the string, store it in the char array 
+	  String[] measure = new String[n];
+	//Read the double and store it in the double array 
+	//read the next text on the line and store in the String array   
 	  for (int i = 0; i < n; i++) {
-  		numbers[i] = reader.nextDouble();
-  		String input = reader.nextLine();
-  		measure[i] = input.charAt(1);
+		  if (reader.hasNextDouble()) {
+			  numbers[i] = reader.nextDouble();
+		}
+		  if (reader.hasNext()) {
+			  measure[i] = reader.next();
+		}
 	  }
 	  //Go through both arrays 'n' times check for the string value and invoke one of the methods
 	  for (int i = 0; i < n; i++) {
-	    if (measure[i] == 'r') {
+	    if (measure[i].equals("rad")) {
 			radiansToDegrees(numbers[i]);
-		  }
-	    else if(measure[i] == 'd') {
+		}
+	    else if(measure[i].equals("deg")) {
 			degreesToRadians(numbers[i]);
-	  	}
+		}
 	  }	
 	}
 	
