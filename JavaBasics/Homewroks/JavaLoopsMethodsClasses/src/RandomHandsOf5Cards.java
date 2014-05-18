@@ -11,7 +11,7 @@ public class RandomHandsOf5Cards {
 		System.out.println("Enter a number 'n': ");
 		int numberOfHands = reader.nextInt();
 		Random rnd = new Random();
-		//Initalize two arrays with the card's faces and suits and store them in an ArrayList
+		//Initalize two arrays with the cards faces and suits and store them in an ArrayList
 		char[] suits = {'\u2666','\u2663', '\u2665','\u2660' };
 		String[] cards = {"2", "3","4", "5", "6", "7", "8" ,"9", "10","J", "Q", "K","A"};
 		ArrayList<String> fullDeck = new ArrayList<String>();

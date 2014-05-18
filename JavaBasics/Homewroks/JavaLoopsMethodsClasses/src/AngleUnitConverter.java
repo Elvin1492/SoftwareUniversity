@@ -15,7 +15,7 @@ public class AngleUnitConverter {
 	  double[] numbers = new double[n];
 	  String[] measure = new String[n];
 	//Read the double and store it in the double array 
-	//read the next text on the line and store in the String array   
+	//read the next text on the line and store in the String array  
 	  for (int i = 0; i < n; i++) {
 		  if (reader.hasNextDouble()) {
 			  numbers[i] = reader.nextDouble();

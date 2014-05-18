@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class DaysBetweenTwoDays {
 	//Write a program to calculate the difference between two dates in number of days. 
 	//The dates are entered at two consecutive lines in format day-month-year. 
-	//Days are in range [1â€¦31]. Months are in range [1â€¦12]. Years are in range [1900â€¦2100]. 
+	//Days are in range [1…31]. Months are in range [1…12]. Years are in range [1900…2100]. 
 
 	public static void main(String[] args) throws ParseException {	
 		//Read the input from the console as a string 

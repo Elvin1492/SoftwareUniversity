@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class SymmetricNumbersInRange {
-	//Write a program to generate and print all symmetric numbers in given range [startâ€¦end].
+	//Write a program to generate and print all symmetric numbers in given range [start…end].
 	//A number is symmetric if its digits are symmetric toward its middle. 
 	//For example, the numbers 101, 33, 989 and 5 are symmetric,
 	//but 102, 34 and 997 are not symmetric

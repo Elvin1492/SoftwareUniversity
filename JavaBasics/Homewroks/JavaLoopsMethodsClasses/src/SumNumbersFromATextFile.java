@@ -1,5 +1,6 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.Reader;
 
@@ -17,11 +18,12 @@ public class SumNumbersFromATextFile {
 		//if the file is missing or the parse was not successful and print the trace
         try{
             BufferedReader reader = new BufferedReader(new FileReader("src/numsToSum.txt"));
+            FileWriter writer = new FileWriter("src/copy.txt");
             String line;
             long sum = 0;
             while ((line = reader.readLine()) != null) {
-            	int number = Integer.parseInt(line);
-                sum+=number;
+            int number = Integer.parseInt(line);
+             sum+=number;
             }
             System.out.println(sum);
             reader.close();
