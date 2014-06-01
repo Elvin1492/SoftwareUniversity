@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\10.FibonaciNumbers\bin\Debug\10.FibonaciNumbers.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\10.FibonaciNumbers\bin\Debug\10.FibonaciNumbers.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\10.FibonaciNumbers\bin\Debug\10.FibonaciNumbers.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\10.FibonaciNumbers\obj\Debug\10.FibonaciNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\10.FibonaciNumbers\obj\Debug\10.FibonaciNumbers.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\10.FibonaciNumbers\obj\Debug\10.FibonaciNumbers.pdb

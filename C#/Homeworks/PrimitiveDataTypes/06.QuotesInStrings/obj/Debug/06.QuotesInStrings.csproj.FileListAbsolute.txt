@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\06.QuotesInStrings\bin\Debug\06.QuotesInStrings.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\06.QuotesInStrings\bin\Debug\06.QuotesInStrings.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\06.QuotesInStrings\bin\Debug\06.QuotesInStrings.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\06.QuotesInStrings\obj\Debug\06.QuotesInStrings.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\06.QuotesInStrings\obj\Debug\06.QuotesInStrings.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\06.QuotesInStrings\obj\Debug\06.QuotesInStrings.pdb

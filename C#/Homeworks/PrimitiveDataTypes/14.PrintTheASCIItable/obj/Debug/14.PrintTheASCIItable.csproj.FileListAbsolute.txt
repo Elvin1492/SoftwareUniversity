@@ -1,0 +1,5 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\14.PrintTheASCIItable\bin\Debug\14.PrintTheASCIItable.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\14.PrintTheASCIItable\bin\Debug\14.PrintTheASCIItable.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\14.PrintTheASCIItable\bin\Debug\14.PrintTheASCIItable.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\14.PrintTheASCIItable\obj\Debug\14.PrintTheASCIItable.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\14.PrintTheASCIItable\obj\Debug\14.PrintTheASCIItable.pdb

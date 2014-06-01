@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\00.DemoForExercise\bin\Debug\00.DemoForExercise.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\00.DemoForExercise\bin\Debug\00.DemoForExercise.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\00.DemoForExercise\bin\Debug\00.DemoForExercise.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\00.DemoForExercise\obj\Debug\00.DemoForExercise.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\00.DemoForExercise\obj\Debug\00.DemoForExercise.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\00.DemoForExercise\obj\Debug\00.DemoForExercise.pdb

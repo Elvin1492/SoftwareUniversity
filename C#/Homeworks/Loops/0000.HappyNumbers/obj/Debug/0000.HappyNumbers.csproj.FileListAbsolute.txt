@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\0000.HappyNumbers\bin\Debug\0000.HappyNumbers.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\0000.HappyNumbers\bin\Debug\0000.HappyNumbers.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\0000.HappyNumbers\bin\Debug\0000.HappyNumbers.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\0000.HappyNumbers\obj\Debug\0000.HappyNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\0000.HappyNumbers\obj\Debug\0000.HappyNumbers.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\0000.HappyNumbers\obj\Debug\0000.HappyNumbers.pdb

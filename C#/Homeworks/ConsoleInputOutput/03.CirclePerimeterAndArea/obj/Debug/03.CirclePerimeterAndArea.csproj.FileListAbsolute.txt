@@ -1,0 +1,5 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.pdb

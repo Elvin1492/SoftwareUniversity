@@ -1,0 +1,5 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\snake\bin\Debug\snake.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\snake\bin\Debug\snake.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\snake\bin\Debug\snake.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\snake\obj\Debug\snake.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\snake\obj\Debug\snake.pdb

@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\04.DeckOfCards\bin\Debug\04.DeckOfCards.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\04.DeckOfCards\bin\Debug\04.DeckOfCards.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\04.DeckOfCards\bin\Debug\04.DeckOfCards.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\04.DeckOfCards\obj\Debug\04.DeckOfCards.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\04.DeckOfCards\obj\Debug\04.DeckOfCards.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\04.DeckOfCards\obj\Debug\04.DeckOfCards.pdb

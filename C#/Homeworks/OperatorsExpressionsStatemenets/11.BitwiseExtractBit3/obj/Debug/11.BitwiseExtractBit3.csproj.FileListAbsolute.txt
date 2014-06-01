@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\OperatorsExpressionsStatemenets\11.BitwiseExtractBit3\bin\Debug\11.BitwiseExtractBit3.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\OperatorsExpressionsStatemenets\11.BitwiseExtractBit3\bin\Debug\11.BitwiseExtractBit3.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\OperatorsExpressionsStatemenets\11.BitwiseExtractBit3\bin\Debug\11.BitwiseExtractBit3.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\OperatorsExpressionsStatemenets\11.BitwiseExtractBit3\obj\Debug\11.BitwiseExtractBit3.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\OperatorsExpressionsStatemenets\11.BitwiseExtractBit3\obj\Debug\11.BitwiseExtractBit3.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\OperatorsExpressionsStatemenets\11.BitwiseExtractBit3\obj\Debug\11.BitwiseExtractBit3.pdb

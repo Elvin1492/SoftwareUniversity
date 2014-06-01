@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\12.RandomizeTheNumbers1toNBeta\bin\Debug\12.RandomizeTheNumbers1toNBeta.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\12.RandomizeTheNumbers1toNBeta\bin\Debug\12.RandomizeTheNumbers1toNBeta.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\12.RandomizeTheNumbers1toNBeta\bin\Debug\12.RandomizeTheNumbers1toNBeta.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\12.RandomizeTheNumbers1toNBeta\obj\Debug\12.RandomizeTheNumbers1toNBeta.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\12.RandomizeTheNumbers1toNBeta\obj\Debug\12.RandomizeTheNumbers1toNBeta.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\12.RandomizeTheNumbers1toNBeta\obj\Debug\12.RandomizeTheNumbers1toNBeta.pdb

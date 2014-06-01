@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\11.NumberAsWord\bin\Debug\11.NumberAsWord.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\11.NumberAsWord\bin\Debug\11.NumberAsWord.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\11.NumberAsWord\bin\Debug\11.NumberAsWord.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\11.NumberAsWord\obj\Debug\11.NumberAsWord.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\11.NumberAsWord\obj\Debug\11.NumberAsWord.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\11.NumberAsWord\obj\Debug\11.NumberAsWord.pdb

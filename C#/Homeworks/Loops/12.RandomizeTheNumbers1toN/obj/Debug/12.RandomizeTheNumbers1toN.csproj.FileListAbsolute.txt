@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\12.RandomizeTheNumbers1toN\bin\Debug\12.RandomizeTheNumbers1toN.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\12.RandomizeTheNumbers1toN\bin\Debug\12.RandomizeTheNumbers1toN.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\12.RandomizeTheNumbers1toN\bin\Debug\12.RandomizeTheNumbers1toN.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\12.RandomizeTheNumbers1toN\obj\Debug\12.RandomizeTheNumbers1toN.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\12.RandomizeTheNumbers1toN\obj\Debug\12.RandomizeTheNumbers1toN.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\12.RandomizeTheNumbers1toN\obj\Debug\12.RandomizeTheNumbers1toN.csprojResolveAssemblyReference.cache

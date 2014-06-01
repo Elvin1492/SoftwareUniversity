@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\OperatorsExpressionsStatemenets\05.TirdDigitIs7\bin\Debug\05.TirdDigitIs7.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\OperatorsExpressionsStatemenets\05.TirdDigitIs7\bin\Debug\05.TirdDigitIs7.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\OperatorsExpressionsStatemenets\05.TirdDigitIs7\bin\Debug\05.TirdDigitIs7.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\OperatorsExpressionsStatemenets\05.TirdDigitIs7\obj\Debug\05.TirdDigitIs7.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\OperatorsExpressionsStatemenets\05.TirdDigitIs7\obj\Debug\05.TirdDigitIs7.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\OperatorsExpressionsStatemenets\05.TirdDigitIs7\obj\Debug\05.TirdDigitIs7.pdb

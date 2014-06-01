@@ -1,0 +1,5 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\05.IsFemale\bin\Debug\05.IsFemale.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\05.IsFemale\bin\Debug\05.IsFemale.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\05.IsFemale\bin\Debug\05.IsFemale.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\05.IsFemale\obj\Debug\05.IsFemale.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\05.IsFemale\obj\Debug\05.IsFemale.pdb

@@ -1,0 +1,5 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\12.NullValuesArithmetics\bin\Debug\12.NullValuesArithmetics.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\12.NullValuesArithmetics\bin\Debug\12.NullValuesArithmetics.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\12.NullValuesArithmetics\bin\Debug\12.NullValuesArithmetics.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\12.NullValuesArithmetics\obj\Debug\12.NullValuesArithmetics.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\12.NullValuesArithmetics\obj\Debug\12.NullValuesArithmetics.pdb

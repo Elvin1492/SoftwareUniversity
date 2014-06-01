@@ -1,0 +1,5 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\08.ExchangeVariableValues\bin\Debug\08.ExchangeVariableValues.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\08.ExchangeVariableValues\bin\Debug\08.ExchangeVariableValues.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\08.ExchangeVariableValues\bin\Debug\08.ExchangeVariableValues.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\08.ExchangeVariableValues\obj\Debug\08.ExchangeVariableValues.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\08.ExchangeVariableValues\obj\Debug\08.ExchangeVariableValues.pdb

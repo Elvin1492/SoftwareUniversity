@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\03.VariableInHexademicalFormat\bin\Debug\03.VariableInHexademicalFormat.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\03.VariableInHexademicalFormat\bin\Debug\03.VariableInHexademicalFormat.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\03.VariableInHexademicalFormat\bin\Debug\03.VariableInHexademicalFormat.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\03.VariableInHexademicalFormat\obj\Debug\03.VariableInHexademicalFormat.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\03.VariableInHexademicalFormat\obj\Debug\03.VariableInHexademicalFormat.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\03.VariableInHexademicalFormat\obj\Debug\03.VariableInHexademicalFormat.pdb

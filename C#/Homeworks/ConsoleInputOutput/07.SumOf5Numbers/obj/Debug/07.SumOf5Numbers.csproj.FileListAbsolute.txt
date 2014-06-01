@@ -1,0 +1,5 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.pdb

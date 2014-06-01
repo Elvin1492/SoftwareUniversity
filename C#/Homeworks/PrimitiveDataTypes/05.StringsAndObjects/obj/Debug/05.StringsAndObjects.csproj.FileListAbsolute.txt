@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\05.StringsAndObjects\bin\Debug\05.StringsAndObjects.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\05.StringsAndObjects\bin\Debug\05.StringsAndObjects.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\05.StringsAndObjects\bin\Debug\05.StringsAndObjects.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\05.StringsAndObjects\obj\Debug\05.StringsAndObjects.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\05.StringsAndObjects\obj\Debug\05.StringsAndObjects.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\05.StringsAndObjects\obj\Debug\05.StringsAndObjects.pdb

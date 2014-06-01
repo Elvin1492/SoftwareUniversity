@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.pdb

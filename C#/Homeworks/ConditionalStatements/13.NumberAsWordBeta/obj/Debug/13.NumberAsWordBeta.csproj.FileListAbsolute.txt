@@ -1,0 +1,5 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\13.NumberAsWordBeta\bin\Debug\13.NumberAsWordBeta.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\13.NumberAsWordBeta\bin\Debug\13.NumberAsWordBeta.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\13.NumberAsWordBeta\bin\Debug\13.NumberAsWordBeta.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\13.NumberAsWordBeta\obj\Debug\13.NumberAsWordBeta.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\13.NumberAsWordBeta\obj\Debug\13.NumberAsWordBeta.pdb

@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\11.NumsInIntDivByGivenNum\bin\Debug\11.NumsInIntDivByGivenNum.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\11.NumsInIntDivByGivenNum\bin\Debug\11.NumsInIntDivByGivenNum.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\11.NumsInIntDivByGivenNum\bin\Debug\11.NumsInIntDivByGivenNum.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\11.NumsInIntDivByGivenNum\obj\Debug\11.NumsInIntDivByGivenNum.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\11.NumsInIntDivByGivenNum\obj\Debug\11.NumsInIntDivByGivenNum.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\11.NumsInIntDivByGivenNum\obj\Debug\11.NumsInIntDivByGivenNum.pdb

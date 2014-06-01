@@ -1,0 +1,5 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\02.BonusScore\bin\Debug\02.BonusScore.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\02.BonusScore\bin\Debug\02.BonusScore.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\02.BonusScore\bin\Debug\02.BonusScore.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\02.BonusScore\obj\Debug\02.BonusScore.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\02.BonusScore\obj\Debug\02.BonusScore.pdb

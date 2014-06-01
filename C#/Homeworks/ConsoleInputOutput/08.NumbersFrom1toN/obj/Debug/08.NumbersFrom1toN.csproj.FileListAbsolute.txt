@@ -1,0 +1,5 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\08.NumbersFrom1toN\bin\Debug\08.NumbersFrom1toN.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\08.NumbersFrom1toN\obj\Debug\08.NumbersFrom1toN.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\08.NumbersFrom1toN\obj\Debug\08.NumbersFrom1toN.pdb

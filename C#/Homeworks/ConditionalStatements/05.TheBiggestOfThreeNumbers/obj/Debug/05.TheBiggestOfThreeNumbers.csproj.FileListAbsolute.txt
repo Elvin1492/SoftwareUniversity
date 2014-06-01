@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\05.TheBiggestOfThreeNumbers\bin\Debug\05.TheBiggestOfThreeNumbers.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\05.TheBiggestOfThreeNumbers\bin\Debug\05.TheBiggestOfThreeNumbers.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\05.TheBiggestOfThreeNumbers\bin\Debug\05.TheBiggestOfThreeNumbers.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\05.TheBiggestOfThreeNumbers\obj\Debug\05.TheBiggestOfThreeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\05.TheBiggestOfThreeNumbers\obj\Debug\05.TheBiggestOfThreeNumbers.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\05.TheBiggestOfThreeNumbers\obj\Debug\05.TheBiggestOfThreeNumbers.pdb

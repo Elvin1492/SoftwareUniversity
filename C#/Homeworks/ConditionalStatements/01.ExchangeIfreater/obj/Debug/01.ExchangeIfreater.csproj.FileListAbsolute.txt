@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\01.ExchangeIfreater\bin\Debug\01.ExchangeIfreater.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\01.ExchangeIfreater\bin\Debug\01.ExchangeIfreater.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\01.ExchangeIfreater\bin\Debug\01.ExchangeIfreater.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\01.ExchangeIfreater\obj\Debug\01.ExchangeIfreater.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\01.ExchangeIfreater\obj\Debug\01.ExchangeIfreater.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\01.ExchangeIfreater\obj\Debug\01.ExchangeIfreater.pdb

@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\18.TrailingZeroesInNfBeta\bin\Debug\18.TrailingZeroesInNfBeta.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\18.TrailingZeroesInNfBeta\bin\Debug\18.TrailingZeroesInNfBeta.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\18.TrailingZeroesInNfBeta\bin\Debug\18.TrailingZeroesInNfBeta.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\18.TrailingZeroesInNfBeta\obj\Debug\18.TrailingZeroesInNfBeta.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\18.TrailingZeroesInNfBeta\obj\Debug\18.TrailingZeroesInNfBeta.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\18.TrailingZeroesInNfBeta\obj\Debug\18.TrailingZeroesInNfBeta.pdb

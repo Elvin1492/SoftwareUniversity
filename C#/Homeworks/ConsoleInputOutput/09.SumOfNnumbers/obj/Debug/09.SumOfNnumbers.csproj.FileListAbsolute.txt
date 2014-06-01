@@ -1,0 +1,5 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\09.SumOfNnumbers\bin\Debug\09.SumOfNnumbers.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\09.SumOfNnumbers\bin\Debug\09.SumOfNnumbers.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\09.SumOfNnumbers\bin\Debug\09.SumOfNnumbers.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\09.SumOfNnumbers\obj\Debug\09.SumOfNnumbers.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConsoleInputOutput\09.SumOfNnumbers\obj\Debug\09.SumOfNnumbers.pdb

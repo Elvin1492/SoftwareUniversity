@@ -1,0 +1,3 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\17.TrailingZeroesInNf\bin\Debug\17.TrailingZeroesInNf.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\17.TrailingZeroesInNf\obj\Debug\17.TrailingZeroesInNf.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\17.TrailingZeroesInNf\obj\Debug\17.TrailingZeroesInNf.pdb

@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\07.CalculateNfKfNKf\bin\Debug\07.CalculateNfKfNKf.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\07.CalculateNfKfNKf\bin\Debug\07.CalculateNfKfNKf.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\07.CalculateNfKfNKf\bin\Debug\07.CalculateNfKfNKf.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\07.CalculateNfKfNKf\obj\Debug\07.CalculateNfKfNKf.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\07.CalculateNfKfNKf\obj\Debug\07.CalculateNfKfNKf.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\07.CalculateNfKfNKf\obj\Debug\07.CalculateNfKfNKf.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\OperatorsExpressionsStatemenets\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\OperatorsExpressionsStatemenets\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\OperatorsExpressionsStatemenets\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\OperatorsExpressionsStatemenets\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\OperatorsExpressionsStatemenets\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\OperatorsExpressionsStatemenets\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.pdb

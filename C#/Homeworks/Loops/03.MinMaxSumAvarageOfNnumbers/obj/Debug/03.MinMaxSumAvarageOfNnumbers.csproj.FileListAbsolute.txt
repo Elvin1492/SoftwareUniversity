@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\03.MinMaxSumAvarageOfNnumbers\bin\Debug\03.MinMaxSumAvarageOfNnumbers.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\03.MinMaxSumAvarageOfNnumbers\bin\Debug\03.MinMaxSumAvarageOfNnumbers.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\03.MinMaxSumAvarageOfNnumbers\bin\Debug\03.MinMaxSumAvarageOfNnumbers.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\03.MinMaxSumAvarageOfNnumbers\obj\Debug\03.MinMaxSumAvarageOfNnumbers.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\03.MinMaxSumAvarageOfNnumbers\obj\Debug\03.MinMaxSumAvarageOfNnumbers.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\03.MinMaxSumAvarageOfNnumbers\obj\Debug\03.MinMaxSumAvarageOfNnumbers.csprojResolveAssemblyReference.cache

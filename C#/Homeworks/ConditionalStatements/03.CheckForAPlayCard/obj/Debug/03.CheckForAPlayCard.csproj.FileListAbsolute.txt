@@ -1,0 +1,5 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\03.CheckForAPlayCard\bin\Debug\03.CheckForAPlayCard.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\03.CheckForAPlayCard\bin\Debug\03.CheckForAPlayCard.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\03.CheckForAPlayCard\bin\Debug\03.CheckForAPlayCard.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\03.CheckForAPlayCard\obj\Debug\03.CheckForAPlayCard.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\03.CheckForAPlayCard\obj\Debug\03.CheckForAPlayCard.pdb

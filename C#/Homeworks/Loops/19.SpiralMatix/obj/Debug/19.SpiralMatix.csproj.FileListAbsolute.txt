@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\19.SpiralMatix\bin\Debug\19.SpiralMatix.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\19.SpiralMatix\bin\Debug\19.SpiralMatix.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\19.SpiralMatix\bin\Debug\19.SpiralMatix.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\19.SpiralMatix\obj\Debug\19.SpiralMatix.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\19.SpiralMatix\obj\Debug\19.SpiralMatix.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\19.SpiralMatix\obj\Debug\19.SpiralMatix.csprojResolveAssemblyReference.cache

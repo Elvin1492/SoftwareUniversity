@@ -1,0 +1,5 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\PrimitiveDataTypes\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.pdb

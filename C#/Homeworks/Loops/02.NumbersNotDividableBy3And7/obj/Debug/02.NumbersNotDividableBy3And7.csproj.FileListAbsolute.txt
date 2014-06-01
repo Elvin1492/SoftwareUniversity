@@ -1,0 +1,5 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\02.NumbersNotDividableBy3And7\bin\Debug\02.NumbersNotDividableBy3And7.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\02.NumbersNotDividableBy3And7\bin\Debug\02.NumbersNotDividableBy3And7.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\02.NumbersNotDividableBy3And7\bin\Debug\02.NumbersNotDividableBy3And7.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\02.NumbersNotDividableBy3And7\obj\Debug\02.NumbersNotDividableBy3And7.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\02.NumbersNotDividableBy3And7\obj\Debug\02.NumbersNotDividableBy3And7.pdb

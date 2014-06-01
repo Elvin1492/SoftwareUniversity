@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\OperatorsExpressionsStatemenets\15.BitExchange\bin\Debug\15.BitExchange.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\OperatorsExpressionsStatemenets\15.BitExchange\bin\Debug\15.BitExchange.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\OperatorsExpressionsStatemenets\15.BitExchange\bin\Debug\15.BitExchange.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\OperatorsExpressionsStatemenets\15.BitExchange\obj\Debug\15.BitExchange.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\OperatorsExpressionsStatemenets\15.BitExchange\obj\Debug\15.BitExchange.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\OperatorsExpressionsStatemenets\15.BitExchange\obj\Debug\15.BitExchange.pdb

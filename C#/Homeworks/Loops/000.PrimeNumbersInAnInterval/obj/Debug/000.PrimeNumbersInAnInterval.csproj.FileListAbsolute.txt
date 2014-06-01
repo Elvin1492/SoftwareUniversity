@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\000.PrimeNumbersInAnInterval\bin\Debug\000.PrimeNumbersInAnInterval.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\000.PrimeNumbersInAnInterval\bin\Debug\000.PrimeNumbersInAnInterval.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\000.PrimeNumbersInAnInterval\bin\Debug\000.PrimeNumbersInAnInterval.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\000.PrimeNumbersInAnInterval\obj\Debug\000.PrimeNumbersInAnInterval.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\000.PrimeNumbersInAnInterval\obj\Debug\000.PrimeNumbersInAnInterval.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\000.PrimeNumbersInAnInterval\obj\Debug\000.PrimeNumbersInAnInterval.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\OperatorsExpressionsStatemenets\10.InsideAcircleOutsideOfTriangle\bin\Debug\10.InsideAcircleOutsideOfTriangle.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\OperatorsExpressionsStatemenets\10.InsideAcircleOutsideOfTriangle\bin\Debug\10.InsideAcircleOutsideOfTriangle.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\OperatorsExpressionsStatemenets\10.InsideAcircleOutsideOfTriangle\bin\Debug\10.InsideAcircleOutsideOfTriangle.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\OperatorsExpressionsStatemenets\10.InsideAcircleOutsideOfTriangle\obj\Debug\10.InsideAcircleOutsideOfTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\OperatorsExpressionsStatemenets\10.InsideAcircleOutsideOfTriangle\obj\Debug\10.InsideAcircleOutsideOfTriangle.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\OperatorsExpressionsStatemenets\10.InsideAcircleOutsideOfTriangle\obj\Debug\10.InsideAcircleOutsideOfTriangle.pdb

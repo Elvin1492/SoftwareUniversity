@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\11.RandomNumbersInGivenRange\bin\Debug\11.RandomNumbersInGivenRange.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\11.RandomNumbersInGivenRange\bin\Debug\11.RandomNumbersInGivenRange.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\11.RandomNumbersInGivenRange\bin\Debug\11.RandomNumbersInGivenRange.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\11.RandomNumbersInGivenRange\obj\Debug\11.RandomNumbersInGivenRange.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\11.RandomNumbersInGivenRange\obj\Debug\11.RandomNumbersInGivenRange.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\11.RandomNumbersInGivenRange\obj\Debug\11.RandomNumbersInGivenRange.pdb

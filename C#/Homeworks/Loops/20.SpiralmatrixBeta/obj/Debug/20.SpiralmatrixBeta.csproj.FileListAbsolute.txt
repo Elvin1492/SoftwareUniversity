@@ -1,0 +1,5 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\20.SpiralmatrixBeta\bin\Debug\20.SpiralmatrixBeta.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\20.SpiralmatrixBeta\bin\Debug\20.SpiralmatrixBeta.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\20.SpiralmatrixBeta\bin\Debug\20.SpiralmatrixBeta.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\20.SpiralmatrixBeta\obj\Debug\20.SpiralmatrixBeta.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\Loops\20.SpiralmatrixBeta\obj\Debug\20.SpiralmatrixBeta.pdb

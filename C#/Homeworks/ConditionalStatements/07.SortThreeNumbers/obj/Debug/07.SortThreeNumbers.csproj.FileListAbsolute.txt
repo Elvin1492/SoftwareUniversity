@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\07.SortThreeNumbers\bin\Debug\07.SortThreeNumbers.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\07.SortThreeNumbers\bin\Debug\07.SortThreeNumbers.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\07.SortThreeNumbers\bin\Debug\07.SortThreeNumbers.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\07.SortThreeNumbers\obj\Debug\07.SortThreeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\07.SortThreeNumbers\obj\Debug\07.SortThreeNumbers.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#\Homeworks\ConditionalStatements\07.SortThreeNumbers\obj\Debug\07.SortThreeNumbers.pdb
