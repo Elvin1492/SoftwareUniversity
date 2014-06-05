@@ -1,0 +1,12 @@
+ol.main-items {
+	list-style-type: upper-roman; 
+}
+ol.nested-aplhabetical {
+	list-style-type: lower-alpha;
+}
+ul.nested-circletype {
+	list-style-type: circle;
+}
+ul.nested-disc {
+	list-style-type:disc;
+}

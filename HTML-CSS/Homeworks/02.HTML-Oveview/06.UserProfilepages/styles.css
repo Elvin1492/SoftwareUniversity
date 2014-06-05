@@ -1,0 +1,17 @@
+body{
+	background-color: #AED8E6;
+}
+heading{
+	font-size: 50px;
+	font-weight: bold;
+}
+img {
+	border: 1px solid black;
+}
+.leftcolumn {
+	font-weight: bold;
+}
+dt
+{
+	font-style: italic;
+}

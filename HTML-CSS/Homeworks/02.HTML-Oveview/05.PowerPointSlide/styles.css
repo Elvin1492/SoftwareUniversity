@@ -1,0 +1,43 @@
+body {
+	background-image: url('images/powerpoint.jpeg');
+	font-family: sans-serif;
+}
+ul {
+	font-size: 20px;
+	color: white;
+	list-style-type: square;
+	color: #D0B17B;
+}
+li:before {
+    color: #D0B17B; 
+}
+h1 {
+  color: #D0B17B;
+}
+.listitems{
+	color: white;
+}
+
+.tag{
+	font-weight: bold;
+}
+#rectangle {
+	color: #F2F2DA;
+	height: 100px;
+	width: 1200px;
+	background:#20201E; 
+	border:solid white 1px
+}
+#middlerectangle{
+	color: #F2F2DA;
+	height: 70px;
+	width: 1200px;
+	background:#20201E; 
+	border:solid white 1px
+}
+p{
+	padding-left: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	
+}
