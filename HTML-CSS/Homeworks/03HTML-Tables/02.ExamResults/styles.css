@@ -1,0 +1,14 @@
+table {
+	width: 350px;
+	height: 300px;
+	border: 1px solid black;
+}
+table td, th {
+	border: 1px solid black;
+}
+tfoot {
+	text-align: right;
+}
+#maintitle {
+	font-size: 24px;
+}

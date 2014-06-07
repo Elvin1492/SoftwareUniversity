@@ -1,0 +1,44 @@
+header {
+	background-color: #234465;
+	font-family:Tahoma,sans-serif;
+	color: white;
+}
+table {
+	width: 1300px;
+	height: 110px;
+}
+td {
+	text-align: right;
+}
+ul {
+	list-style-type: none;
+}
+ul li {
+	display: inline;
+	font-style: bolder;
+	margin:10px;	
+}
+
+#logotd {
+	text-align: center;
+
+}
+#search {
+	width: 300px;
+}
+#searchbar {
+	border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    height: 26px;
+}
+#searchbutton {
+	border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+ a:link, a:active, a:visited{
+    text-decoration: none;
+    color: white;
+}
+.link:hover {
+	 background-color: #438CC5;
+}

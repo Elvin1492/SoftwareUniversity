@@ -1,0 +1,17 @@
+table {
+	border: 1px solid black; 
+}
+th {
+	text-align: left;
+	font-size: 25px;
+}
+.boldtext{
+	font-weight: bold;
+}
+.coll2 {
+	width: 180px;
+}
+table td {
+	padding: 5px;
+
+}

@@ -1,0 +1,50 @@
+
+td, th {
+	width: 90px;
+	height: 90px;
+	font-size: 20px;
+}
+table, table td, table th {
+	border: 1px solid black;
+}
+#softuni {
+	font-weight: bolder;
+	font-size: 45px;
+}
+#google {
+	vertical-align: top;
+	text-align: left;
+}
+#github {
+	vertical-align: top;
+	text-align: right;
+}
+#facebook {
+	vertical-align: top;
+	text-align: center;
+}
+#gmail2048 {
+	text-align: left;
+}
+#youtube {
+	vertical-align: bottom;
+	text-align: center;
+}
+#food {
+	vertical-align: bottom;
+	text-align: right;
+}
+#game {
+	vertical-align: bottom;
+	text-align: left;
+}
+#beer {
+	font-size: 25px;
+	font-weight: bold;
+	text-align: right;
+}
+.innertable {
+	font-size: 15px;
+	text-align: center;
+	height: 45px;
+}

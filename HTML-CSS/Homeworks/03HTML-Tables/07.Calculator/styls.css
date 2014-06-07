@@ -1,0 +1,13 @@
+table, table td {
+	border: 1px solid black;
+}
+td {
+	width: 65px;
+	height: 65px;
+}
+input {
+	width:98%;
+	height: 98%;
+	font-weight: bolder;
+	font-size: 20px;
+}
