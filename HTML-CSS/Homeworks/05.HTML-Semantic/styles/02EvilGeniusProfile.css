@@ -1,0 +1,61 @@
+#container {
+	width: 980px;
+	height: 400px;
+	background-color: #FF99CC;
+	border-radius: 10px;
+}
+
+h1 {
+	text-align: center;
+	padding-top: 10px;
+}
+
+h2 {
+	font-size: 20px;
+	margin-bottom: 0px;
+}
+
+meter {
+	width: 160px;
+	height: 25px;
+}
+
+section {
+	border-radius: 10px;
+	border:1px solid black;
+}
+
+#user {
+	width: 240px;
+	margin-left: 10px;
+	float: left;
+	padding-bottom: 5px;
+}
+
+figure {
+	margin-left: 10px;
+}
+
+figcaption {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 17px;
+	font-weight: bold;
+}
+
+#music {
+	width: 310px;
+	margin-left: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+    float: left;
+}
+
+#video {
+	width: 360px;
+	margin-left: 10px;
+	padding-left: 10px;
+	padding-bottom: 5px;
+    float: left;
+}
+

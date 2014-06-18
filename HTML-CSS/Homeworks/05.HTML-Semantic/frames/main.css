@@ -1,0 +1,30 @@
+
+h2 {
+	margin-bottom: 0px;
+}
+
+.article {
+	border-bottom: 1px solid black;
+	padding-left: 20px;
+}
+
+.article-info {
+	font-size: 13px;
+	color: #828282;
+}
+
+a {
+	color: #3399FF;
+}
+
+a:link, a:active, a:visited {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.comment {
+	color: #828282;
+}

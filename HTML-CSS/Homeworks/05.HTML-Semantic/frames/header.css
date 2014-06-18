@@ -1,0 +1,31 @@
+h1 {
+	padding-left: 40px;
+}
+
+ul li {
+	list-style-type: none;
+	display: inline;
+	padding-left: 0px;
+	padding-right: 35px;
+	color: #3399FF;
+}
+
+ul li a:hover {
+	text-decoration: underline;
+}
+
+form {
+	display: inline;
+	float: right;
+	padding-right:50px;	
+}
+
+a:link, a:visited, a:hover, a:active {
+	text-decoration: none;
+	color: black;
+}
+
+div {
+	border-bottom: 1px solid black;
+	
+}

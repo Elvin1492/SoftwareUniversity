@@ -1,0 +1,178 @@
+body {
+	font-family: Calibri;
+	background-image: url("../images/dots.jpg"); 
+	margin: 0;
+}
+
+body > header:nth-child(1) {
+	width: 100%;
+	margin-top: 0;
+	padding-bottom: 20px;
+	font-size: 3.0em;
+	font-weight: bolder;
+	text-align: center;
+	color: #FFFF00;
+	background: -webkit-linear-gradient(left,red, red 33%, green 33%, green 67%,blue, blue 67%);
+}
+
+body aside {
+	width: 17%;
+	float: left;
+	margin-left: 15px;
+	margin-top: 25px;
+	padding: 10px;
+	background-color: white;
+	opacity: 0.9; 
+	border-radius: 15px;
+ 
+}
+
+aside nav header {
+font-size: 1.6em;
+text-decoration: underline;
+margin-bottom: -10px;
+}
+
+
+aside nav ul {
+	padding-left: 30px;
+}
+
+aside nav ul li {
+	text-decoration: none;
+	margin-top: 5px;
+	list-style-image: url('../images/OK.png');
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: black;
+	font-size: 1.3em;
+}
+
+nav ul li a:visited {
+	color: #8CA9D2;
+}
+
+nav ul li a:hover {
+	color: black;
+}
+
+
+nav ul li:nth-child(1):hover {
+	background: red;
+	width: 90%;
+	border-radius: 10px;
+	padding-left: 5px;
+	color: black;
+}
+
+nav ul li:nth-child(2):hover {
+	background: #FFA500;
+	width: 90%;
+	border-radius: 10px;
+	padding-left: 5px;
+}
+
+
+nav ul li:nth-child(3):hover {
+	background-color: #FFFF00;
+	width: 90%;
+	border-radius: 10px;
+	padding-left: 5px;
+}
+
+nav ul li:nth-child(4):hover {
+	background-color: #008000;
+	width: 90%;
+	border-radius: 10px;
+	padding-left: 5px;
+}
+
+nav ul li:nth-child(5):hover {
+	background-color: blue;
+	width: 90%;
+	border-radius: 10px;
+	padding-left: 5px;
+}
+
+nav ul li:nth-child(6):hover {
+	background-color: #800080;
+	width: 90%;
+	border-radius: 10px;
+	padding-left: 5px;
+}
+
+body section {
+
+    margin: 25px  25px  20px 25px;
+}
+
+
+ section article {
+	width:75%;
+	float: right;
+	background-color: white;
+	background: rgba(255, 255, 255, 0.9);
+	border-radius: 15px;
+	margin-bottom: 15px;
+	padding: 15px 20px 15px 20px;
+}
+
+section article header {
+	padding: 10px;
+	border-radius: 10px;
+	font-size: 2.0em;
+	color: white;
+}
+
+section article div:first-line {
+	font-style: italic;
+}
+
+section article div:first-letter {
+    font-size: 3.0em;
+}
+
+section article footer a {
+	color: #808080;
+}
+
+#webColors {
+	background-color:red;
+}
+
+#webSafeColors {
+  background-color: #FFA500;
+  color: black;
+}
+
+#RGB {
+	background-color: #FFFF00;
+	color: black;
+}
+
+#RGBA {
+	background-color: #008000;
+}
+
+#\#HSLHSV {
+	background-color: blue;
+}
+
+#\#lorem {
+	background-color: #800080;
+}
+
+span:lang(la) {
+	font-style: italic;
+	color: #0000A1;
+}
+
+span:lang(la):before {
+	content: "\"";
+}
+
+span:lang(la):after {
+	content: "\"";
+}

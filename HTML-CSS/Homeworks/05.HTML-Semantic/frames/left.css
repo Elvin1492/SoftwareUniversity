@@ -1,0 +1,28 @@
+h3 {
+		color: #828282;
+		font-size: 15px;
+		padding-left:40px;
+}
+
+div {
+	border-top: 1px solid black;
+	
+}
+
+ul li {
+	list-style-type: none;
+	color: #3399FF;
+	padding-bottom: 5px;
+}
+
+ul li a {
+	color: #3399FF;
+}
+
+ul li a:hover {
+	text-decoration: underline;
+}
+
+a:link,a:active, a:visited {
+	text-decoration: none;;
+}

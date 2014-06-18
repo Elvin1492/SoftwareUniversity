@@ -1,0 +1,60 @@
+main {
+	width: 700px;
+	height: 350px;
+	background-color: #A00000;
+	color: #E6B800;
+    font-family: 'Abril Fatface', cursive;
+    border-radius: 10px;
+    border:1px solid #E6B800 ;
+
+}
+
+h1 {
+	padding-top: 10px;
+	text-align: center;
+	font-weight: bolder;
+	font-size: 30px;
+}
+
+iframe {
+	width: 300px;
+	height: 200px;
+	float: left;
+	margin-left: 20px;
+	border-radius: 10px;
+	border:1px solid #E6B800;
+}
+
+#list {
+	width: 300px;
+	height: 200px;
+	float: left;
+	background-color: #A00000;
+	color: #E6B800;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 20px;
+	
+}
+
+ul li {
+	list-style-type: none;
+}
+
+a {
+    color: #E6B800;
+    font-style: italic;
+}
+
+a:link, a:visited , a:active {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul li {
+	list-style-type: none;
+	display: inline;
+}
+
