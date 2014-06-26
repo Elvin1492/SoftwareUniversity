@@ -1,0 +1,147 @@
+body {
+	margin:0;
+	padding: 0;
+}
+
+#wrapper {
+	margin: 0 auto;
+	width: 1200px;
+	height: 520px;
+	position: relative;
+	top: 80px;
+	padding: 40px 70px;
+	background-color: #EEE;
+	font-family: 'PT Sans', Tahoma, sans-serif;
+}
+
+#wrapper h2 {
+	margin-top: 0px;
+	padding-left: 20px;
+	color: #234465;
+	font-weight: normal;
+}
+
+article.news {
+	width: 340px;
+	height: 405px;
+	background-color: white;
+	display: inline-block;
+	float: left;
+	margin-left: 20px;
+	padding: 10px 15px;
+	border: 1px solid #DBDBDB;
+}
+
+article.news h3 {
+	font-size: 16px;
+	padding-left: 10px;
+	padding-top: 15px;
+}
+
+article.news h3 a{
+	text-decoration: none;
+	color: #234465;
+}
+
+article.news h3 a:hover{
+	text-decoration: underline;
+	color: #4CA0DB;
+}
+
+article.news div.article-date time {
+    padding-left:250px; 
+	font-size: 14px;
+}
+
+article.news div.article-author {
+	margin-top: 5px;
+	font-size: 14px;
+	padding-left: 10px;
+}
+
+article.news div.article-image {
+	padding: 5px auto;
+	width: 250px;
+	height: 100px;
+}
+
+article.news div.article-image img {
+	width: 100%;
+	height: auto;
+	padding: 10px 40px;
+}
+
+article.news div.article-content {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size: 14px;
+}
+
+article.news div.article-content a {
+	text-decoration: none;
+	font-size: 14px;
+	color: black;
+}
+
+article.news div.article-content a:hover {
+	text-decoration: underline;
+}
+
+article.news div.article-tags {
+	padding-top: 10px;
+} 
+
+article.news div.article-tags strong {
+	font-size: 14px;
+}
+
+article.news div.article-tags a {
+	text-decoration: none;
+	font-size: 14px;
+	color: black;
+}
+
+article.news div.article-tags a:hover {
+	text-decoration: underline;
+}
+
+div.paging-bar {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	float: right;
+}
+
+div.paging-bar ul {
+	list-style-type: none;
+}
+
+div.paging-bar ul li {
+	display: table-cell;
+	width: 30px;
+	height: 30px;
+	margin-right: 0px;
+	background-color: #4CA0DB;
+	border: 1px solid white;
+	vertical-align: middle;
+	text-align: center;
+}
+
+div.paging-bar ul li a {
+	text-decoration: none;
+	color: white;
+	font-size: 14px;
+}
+
+div.paging-bar ul li:nth-child(1) {
+	background-color: #FF9C00;
+}
+
+div.paging-bar ul li:hover {
+	background-color: #56BAD3;
+	font-size: 15px;
+	border: 1px solid #365FD1;
+}
+
+div.paging-bar ul li:nth-child(1):hover {
+	background-color: #285e8e;
+}

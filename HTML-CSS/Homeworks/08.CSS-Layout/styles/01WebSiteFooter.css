@@ -1,0 +1,116 @@
+body {
+	margin:0;
+	padding:0;
+}
+
+#wrapper {
+	width: 1340px;
+	height: 220px;
+	margin: 0 auto;
+	padding: 35px 55px;
+	position: relative;
+	top: 365px;
+	background-color: #234465;
+	font-family: 'PT Sans', Tahoma, sans-serif;
+}
+
+.small-section {
+	width: 195px;
+	height: 230px;
+	display: inline-block;
+	float: left;
+	padding: 5px;
+}
+
+.big-section {
+	width: 250px;
+	height: 230px;
+	display: inline-block;
+	float: left;
+	padding: 2px;
+
+}
+
+section.small-section div.apply {
+	  display: table;
+	  width: 160px;
+	  height: 40px;
+	  margin: 10px auto;
+	  border: 2px solid #FF9C00;
+	  vertical-align: middle;
+}
+
+section.small-section div.apply a {
+	 display: table-cell;
+	 text-decoration: none;
+	 color: white;
+	 font-size: 0.9em;
+	 text-align: center;
+	 vertical-align: middle;
+}
+
+section.small-section div.apply:hover {
+	background-color: #FF9C00;
+	opacity: 0.9;
+}
+
+section.small-section h2, section.big-section h2 {
+	 color: #FF9C00;
+	 font-size: 14px;
+	 padding-left:10px;
+}
+
+section.small-section ul{
+	 list-style-type: none;
+	 padding-left: 10px;
+}
+
+section.small-section ul li{
+	padding-bottom: 5px;
+}
+
+section.small-section ul li a{
+	text-decoration: none;
+	color: white;
+	font-size: 14px;
+	display: inline-block;
+
+}
+
+section.small-section ul li a:hover {
+	color: #FF9C00;
+}
+
+section.big-section div {
+	color:white;
+	font-size:14px;
+	padding: 5px 10px;
+}
+
+section.big-section ul.social-media {
+	list-style-type:none;
+    padding-left: 0px;
+}
+
+section.big-section ul.social-media li {
+	display:inline-block;
+	width:30px;
+	height:30px;
+	border:1px solid white;
+	margin-top: 10px;
+    margin-left: 10px;
+    background-color: #173552;
+}
+
+section.big-section ul.social-media li:hover {
+	opacity: 0.6;
+}
+
+section.facebook-iframe {
+	width: 250px;
+	height: 230px;
+	display: inline-block;
+	float: left;
+	margin-left: 25px;
+	background-color:white;
+}

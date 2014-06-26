@@ -1,0 +1,163 @@
+body,nav,ul,li,a {
+ margin: 0;
+ padding: 0;
+}
+
+#wrapper {
+	width: 1300px;
+	height: 80px;
+	margin: 0 auto;
+	padding: 15px 30px;
+	background-color: #234465;
+	font-family: 'PT Sans', Tahoma, sans-serif;
+	font-weight: bold;
+	font-size: 0.9em;
+}
+
+#logo {
+	width: 285px;
+	float: left;
+	display: inline-block;
+}
+
+nav {
+	width:940px;
+	display: inline-block;
+	float: right;
+}
+
+#upper-nav {
+	width: 410px;
+	height: 40px;
+	float: right;
+}
+
+#upper-nav ul{
+	list-style-type: none;
+}
+
+#upper-nav ul li:nth-child(1) {
+	background: url("../images/bell.png") no-repeat;
+	padding-left: 25px;
+}
+
+#upper-nav ul li a:hover {
+	text-decoration: underline;
+}
+
+#upper-nav ul li:nth-child(2):after, #dropdown-nav > ul > li:nth-child(2):after, #dropdown-nav > ul > li:nth-child(3):after {
+	content: '\25BC';
+	color: white;
+	font-size: 0.6em;
+	padding-left: 3px;
+}
+
+
+#upper-nav ul > li {
+	display: inline-block;
+	padding: 5px 15px;
+}
+
+#upper-nav ul > li a {
+	text-decoration: none;
+	color: white;	
+}
+
+#upper-nav input[type="button"] {
+	display: table-cell;
+	vertical-align: bottom;
+	width: 30px;
+	height: 26px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	background-image: url("../images/search.png");
+	background-color: white;
+}
+
+#upper-nav input[type="button"]:hover {
+   background-color: #3F6057;
+}
+
+#upper-nav input[type="text"] {
+	margin-right: -3px;
+	height: 20px;
+	display: table-cell;
+	vertical-align: bottom;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+#dropdown-nav{
+	width:910px;
+	height: 30px;
+}
+
+#dropdown-nav > ul {
+	list-style-type: none;
+	margin: 5px auto;
+	padding: 5px auto;
+	position: relative;
+	display: inline-table;
+}
+
+#dropdown-nav ul:after {
+	 content: "";
+	 clear: both; 
+	 display: block;
+	}
+
+#dropdown-nav ul li {
+	padding: 5px 10px;
+	float: left;	
+}
+
+#dropdown-nav ul li a {
+	padding: 5px;
+	text-decoration: none;
+	color: white;
+	display:inline-block;
+}
+
+#dropdown-nav ul li:hover{
+	background-color: #4CA0DB;
+	border-radius: 5px;
+}
+
+#dropdown-nav ul ul{
+	list-style-type: none;
+	display: none;
+	padding: 0;
+	position: absolute;
+	top: 100%;
+}
+
+#dropdown-nav ul li:hover > ul{
+	display:block;
+}
+
+#dropdown-nav ul ul li {
+	float: none; 
+	border-bottom: 1px solid #575f6a;
+	position: relative;
+	background-color: #234465;
+	font-weight: normal;
+}
+
+#dropdown-nav ul ul li:hover {
+	background: #FF9C00;
+	border-radius: 0px;
+}
+
+#dropdown-nav ul ul li.chapter a {
+	color: #4CA0DB;
+}
+
+#dropdown-nav ul ul li.chapter:hover a {
+	color: white;
+}
+
+
+
+
+
+
