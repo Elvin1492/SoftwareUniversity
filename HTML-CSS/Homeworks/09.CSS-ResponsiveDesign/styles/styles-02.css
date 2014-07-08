@@ -1,0 +1,337 @@
+html,body,div,article,aside,header,nav,ul,li,a,p,span,strong,em,footer,section,h1,h2,h3,h4{
+	margin:0;
+	padding:0;
+}
+
+@media all and (min-width: 960px) {
+  /* set order for the elements in case the resolution is 960 px and higer*/
+  header {
+  	order:1;
+  }
+  aside.left {
+  	order:2;
+  } 
+  section {
+  	order:3;
+  } 
+  aside.right {
+    order:4;
+  }  
+  footer {
+  	order:5;
+  }
+}
+
+ body {
+ 	margin: 0 auto;
+ 	background: url("../images/background-flowers.jpg");
+ }
+
+#wrapper {
+	display: flex;
+	flex-flow: row wrap;
+	width: 960px;
+	margin: 0 auto;
+	font-size: 16px;
+	align-items: flex-start;
+	 /*| flex-end | center | baseline | stretch;*/
+}
+
+#wrapper > * {
+  padding: 10px;
+}
+
+#wrapper > header, aside, section, footer  {
+  width:100%;
+  background-color: rgba(235,204,225,0.9);
+  border: 1px solid black;
+  margin-top: 20px;
+}
+
+#wrapper > header{
+  padding: 20px;
+  flex: 1 100%;
+}
+
+#wrapper > header h1 a {
+	text-decoration: none;
+	color: black;
+}
+
+#wrapper > header h1 a img {
+	width: 30%;
+}
+
+#wrapper > header h1 span {
+	float: right;
+	font-weight: bold;
+	font-size: 3.0rem;
+}
+
+#wrapper > header nav {
+ display: flex;
+ flex-flow: row wrap;
+ justify-content: flex-end;
+}
+
+#wrapper > header nav ul, aside ul {
+ list-style-type: none;
+
+}
+
+#wrapper > header nav ul li {
+ display: inline-block;
+ padding: 10px 30px;
+ border: 1px solid black;
+ background-color: #EB2A7B;
+ margin-left: 5px;
+}
+
+#wrapper > header nav ul li a{
+ text-decoration: none;
+ color: white;
+ font-size: 1.2rem;
+}
+
+aside.left {
+	flex: 1 15%;
+	margin-right: 10px;
+}
+
+aside.right {
+	flex: 1 15%;
+	margin-left: 10px;
+}
+
+section {
+	flex: 3 50%;
+}
+
+aside ul {
+	width: 90%;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+
+aside ul li {
+	font-size: 1.1rem;
+}
+
+aside.left ul li a {
+	display: table-cell;
+	text-decoration: none;
+	color: black;
+	vertical-align: middle;
+}
+
+aside.left ul li a img{
+	vertical-align: bottom;
+}
+
+
+aside.left ul li a span{
+	vertical-align: middle;
+}
+
+#wrapper section {
+	padding: 10px auto;
+}
+
+#wrapper section article header h1 {
+	font-size: 2.0rem;
+	padding-left: 15px;
+}
+
+#wrapper section article div{
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
+}
+
+#wrapper section article div img{
+	width: 110px;
+    height: 70px;
+	margin: 5px;
+}
+
+#wrapper footer {
+	display: flex;
+	flex: 1 100%;
+
+}
+
+#wrapper footer h2  {
+	margin: auto;
+	font-size: 1.5rem;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#wrapper footer h2 a {
+	text-decoration: underline;
+	color: black;
+}
+
+@media all and (min-width: 780px) and (max-width: 960px){
+  /* set order for the elements in case the resolution is in between 780px and 960px*/
+
+  header {
+  	order:1;
+  }
+  aside.left {
+  	order:2;
+  	flex-shrink: 1;
+  } 
+  section {
+  	order:3;
+  	flex-shrink: 3;
+  } 
+  aside.right {
+    order:4;
+    flex-shrink: 1;
+  }  
+  footer {
+  	order:5;
+  }
+
+  #wrapper {
+  	width: 100%;
+  	display: flex;
+	flex-flow: row wrap;
+	margin: 0 auto;
+	font-size: 15px;
+	align-items: stretch;
+	 /*| flex-end | center | baseline | stretch;*/
+  }
+
+  #wrapper section article div img{
+	width: 130px;
+    height: 80px;
+	margin: 5px;
+  }
+  
+   #wrapper > header nav {
+ 	float: right;
+  }
+  
+}
+
+@media all and (min-width: 640px) and (max-width: 780px) {
+  /* set order for the elements in case the resolution is in between 640px and 780px*/
+
+  header {
+  	order:1;
+  	width: 100%;
+  }
+
+  aside.left {
+  	order:3;
+  	flex-grow: 1;
+  	flex-shrink: 1;
+  	flex-basis:100%;
+  	width: 100%;
+  } 
+
+  section {
+  	order:2;
+  	flex-grow: 1;
+  	flex-shrink: 1;
+  	flex-basis:100%;
+  	width: 100%;
+  } 
+
+  aside.right {
+    order:4;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis:100%;
+    width: 100%;
+  }  
+
+  footer {
+  	order:5;
+  	width: 100%;
+  }
+
+  #wrapper {
+  	width: 100%;
+  	display: flex;
+	flex-flow: row wrap;
+	margin: 0 auto;
+	font-size: 14px;
+	 /*| flex-end | center | baseline | stretch;*/
+  }
+
+  #wrapper section article div img{
+	width: 190px;
+    height: 120px;
+	margin: 5px;
+  }
+
+
+}
+
+@media all and (min-width: 0px) and (max-width: 640px) {
+  /* set order for the elements in case the resolution is in between 640px and 780px*/
+
+  header {
+  	order:1;
+  	width: 100%;
+  }
+
+  aside.left {
+  	order:3;
+  	flex-grow: 1;
+  	flex-shrink: 1;
+  	flex-basis:100%;
+  	width: 100%;
+  } 
+
+  section {
+  	order:2;
+  	flex-grow: 1;
+  	flex-shrink: 1;
+  	flex-basis:100%;
+  	width: 100%;
+  } 
+
+  aside.right {
+    order:4;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis:100%;
+    width: 100%;
+  }  
+
+  footer {
+  	order:5;
+  	width: 100%;
+  }
+
+  #wrapper {
+  	width: 100%;
+  	display: flex;
+	flex-flow: row wrap;
+	margin: 0 auto;
+	font-size: 12px;
+	 /*| flex-end | center | baseline | stretch;*/
+  }
+
+  #wrapper section article div img{
+	width: 200px;
+    height: 120px;
+	margin: 5px;
+  }
+
+  #wrapper header nav {
+  	display: flex;
+  	flex-flow:no-wrap;
+    flex-direction: column;
+    padding-top: 10%;
+ }
+  
+  #wrapper header nav  ul li{
+  width: 100%;
+  text-align: center;
+ }
+}

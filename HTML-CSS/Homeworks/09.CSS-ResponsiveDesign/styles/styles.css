@@ -1,0 +1,240 @@
+body {
+	background-color: #6698FF;
+}
+
+body, header, nav, ul, li, a, section, aside, article, h1, footer {
+	margin: 0;
+	padding: 0;
+}
+
+
+#wrapper {
+	width: 960px;
+	margin: 0 auto;
+}
+
+header h1 a {
+	font-size: 2.8rem;
+	text-decoration: none;
+	color: white;
+	font-weight:normal;
+}
+
+header nav {
+	width: 60%;
+	padding-top: 10px;
+	padding-left: 40%;
+}
+
+header nav ul {
+	list-style-type: none;
+}
+
+header nav ul li {
+	display: inline-block;
+	padding: 5px 10px;
+	margin-left: 15px;
+	background-color: white;
+	border:1px solid black;
+}
+
+header nav ul li a {
+	text-decoration: none;
+	color: black;
+	font-size: 1.3rem;
+}
+
+section {
+	display: inline-block;
+	float: left;
+	width: 75%;
+}
+
+section article {
+	background-color: #E0EAFE;
+	border: 1px solid black;
+	padding: 5px 10px;
+	margin-top: 15px;
+}
+
+section article header h1 {
+	padding-top: 0px;
+	font-size: 1.7rem;
+	font-size: bold;
+}
+
+section article div p{
+ 	text-indent: 5%;
+}
+
+aside.news {
+	display: inline-block;
+	float: right;
+	width: 20%;
+	background-color: #E0EAFE;
+	border: 1px solid black;
+	padding: 5px;
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+aside.news ul {
+	list-style-type: none;
+	padding: 5px;
+}
+
+aside.news ul li{
+	margin-top: 10px;
+}
+
+aside.news ul li a{
+	text-decoration: none;
+	color: black;
+}
+
+footer {
+	display: inline-block;
+	float: left;
+	width: 97%;
+	background-color: #E0EAFE;
+	border: 1px solid black;
+	padding: 5px 10px;
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
+
+footer h2 {
+	text-align: center;
+	font-size: 1.2rem;
+	margin-bottom: 0px;
+}
+
+@media all and (max-width: 960px) {
+
+	body, header, nav, ul, li, a, section, article, h1, span {
+		margin: 0;
+		padding: 0;
+	}
+
+ 	 #wrapper {
+		width: 100%;
+		font-size:15px;
+	 }
+     
+      header h1 a img{
+	 	display:table-cell;
+        float:left; 	
+	 }  
+    
+	 header h1 a span {
+	 	display:table-cell;
+	 	font-size:2.7rem;
+   	 	padding-left:10px;
+   	 	padding-top:15px;
+	 }
+
+	header nav {
+	    width:100%;
+		padding-top: 10px;
+		padding-left: 25%;
+	}
+}
+
+@media all and (max-width: 780px) {
+
+	body, header, nav, ul, li, a, section, aside article, h1 {
+		margin: 0;
+		padding: 0;
+	}
+
+ 	 #wrapper {
+		width: 100%;
+		font-size:14px;
+	 }
+    
+    header h1 a span {
+	 	font-size:2.3rem;
+   	 	padding-left:10px;
+   	 	padding-top:40px;
+	 }
+
+
+	header nav {
+	width: 100%;
+	padding-left: 15%;
+	}
+
+	section {
+		display:block;
+		width: 100%;
+    }
+
+    aside.news {
+    	margin-left: -5px;
+		display: block;
+		width: 99%;
+    }
+
+    aside.news ul li {
+		display: table-cell;
+		width: 18%;
+		margin-left: 4%;
+		padding: 10px;
+		text-align: center;
+    }
+}
+
+@media all and (max-width: 640px) {
+
+	body, header, nav, ul, li, a, section, article, span, h1,img {
+		margin: 0;
+		padding: 0;
+	}
+
+ 	 #wrapper {
+		width: 100%;
+		font-size:13px;
+	 }
+
+	 header h1 a img{
+	 	display: inline-block;
+	 	margin-left:20%;
+	 }
+
+	 header h1 a span {
+	 	font-size:2.5rem;
+	 	display: inline-block;
+	 	width:100%;
+	 	text-align: center;
+	 	padding-top:0px;
+	 }
+
+	 header nav {
+	 	padding-left:0%;
+	 }
+
+	header nav ul{
+		display: block;
+	}
+
+	header nav ul li {
+		display:block;
+		width:80%;
+		margin:0 auto;
+	}
+
+	header nav ul li a {
+		padding-left:35%;
+	}
+    
+    section article header h1 {
+    	text-align:center;
+    }
+
+     aside.news ul li {
+		display: block;
+		width:80%;
+
+    }
+
+}
