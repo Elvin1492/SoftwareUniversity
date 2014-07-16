@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+
+    <meta charset="UTF-8">
+    <title>Dec2Hex</title>
+    <link rel="stylesheet" type="text/css" href="styles/dec2hex.css">
+
+</head>
+
+<body>
+    <div id="wrapper">
+        <button type="button" onclick="calcHex()">CLICK ME</button>
+    </div>
+    <script>
+    function calcHex() {
+        var dec = Number(prompt("Enter a number"));
+        var hex = dec.toString(16).toUpperCase();
+        alert(hex);
+    }
+    </script>
+
+
+</body>
+
+</html>

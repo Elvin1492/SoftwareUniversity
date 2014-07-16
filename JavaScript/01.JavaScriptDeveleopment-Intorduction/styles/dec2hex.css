@@ -1,0 +1,1 @@
+body #wrapper{box-sizing:border-box;-webkit-box-sizing:border-box;width:300px;margin:10px auto}body #wrapper button{margin:50px;width:200px;height:50px;border:none;color:white;background-color:red;border-radius:10px;font-size:18px;font-weight:bold}body #wrapper button:hover{cursor:pointer;opacity:0.6}
