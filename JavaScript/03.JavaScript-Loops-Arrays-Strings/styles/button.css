@@ -1,0 +1,25 @@
+body, div, article, aside, header, nav, ul, li, a, p, span, strong, em, footer, section, h1, h2, h3, h4 {
+  margin: 0;
+  padding: 0; }
+
+body #wrapper {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  margin: 10px auto;
+  width: 220px;
+  height: 60px; }
+  body #wrapper button {
+    width: 200px;
+    height: 50px;
+    font-family: tahoma, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+    padding: 10px auto;
+    text-align: center;
+    background-color: red;
+    border: 3px solid black;
+    border-radius: 10px; }
+    body #wrapper button:hover {
+      opacity: 0.6;
+      cursor: pointer; }
