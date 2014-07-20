@@ -1,6 +1,12 @@
 function findCardFrequency(value) {
+    var result = "";
+
+    function onlyUnique(value, index, self) {
+        return self.indexOf(value) === index;
+    }
     var cards = value.split(/[♥♣♦♠ ]+/);
     var length = cards.length - 1;
+    var unique = cards.filter(onlyUnique);
     cards.sort();
     var cardsFreq = {};
     var count = 1;
@@ -14,9 +20,14 @@ function findCardFrequency(value) {
         }
 
     }
-    var result = "";
-    for (var card in cardsFreq) {
-        result += card + " ->  " + ((cardsFreq[card] * 100) / length).toFixed(2) + "%" + "\n";
+    for (var l = 0; l < unique.length; l++) {
+        var currentCard = unique[l];
+        for (var card in cardsFreq) {
+            if (card === currentCard) {
+                result += card + " ->  " + ((cardsFreq[card] * 100) / length).toFixed(2) + "%  " + "\n";
+            }
+        }
+
     }
     return result;
 }
