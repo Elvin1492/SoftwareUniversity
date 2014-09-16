@@ -63,9 +63,9 @@ public class Person
     //define constructor which takes name, age and email as parameters
     public Person(string name, int age, string email)
     {
-        this.name = name;
-        this.age = age;
-        this.email = email;
+        this.name = Name;
+        this.age = Age;
+        this.email = Email;
     }
     //define constructor which takes name and  age and chains to the previus cunstroctor, setting a default value of string.Empty
     //to the email parameter
