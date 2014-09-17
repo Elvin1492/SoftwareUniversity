@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\01_Defining_Classes\01_Definig_Classes\02_LaptopShop\bin\Debug\02_LaptopShop.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\01_Defining_Classes\01_Definig_Classes\02_LaptopShop\bin\Debug\02_LaptopShop.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\01_Defining_Classes\01_Definig_Classes\02_LaptopShop\bin\Debug\02_LaptopShop.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\01_Defining_Classes\01_Definig_Classes\02_LaptopShop\obj\Debug\02_LaptopShop.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\01_Defining_Classes\01_Definig_Classes\02_LaptopShop\obj\Debug\02_LaptopShop.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\01_Defining_Classes\01_Definig_Classes\02_LaptopShop\obj\Debug\02_LaptopShop.pdb

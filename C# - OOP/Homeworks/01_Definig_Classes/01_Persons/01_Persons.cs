@@ -5,6 +5,7 @@
 //name and age only and call the first constructor. Implement the ToString() method to enable printing persons at the console.
 
 using System;
+using System.Text;
 using System.ComponentModel.DataAnnotations;
 
 public class Person
@@ -21,10 +22,7 @@ public class Person
         set
         {
             //check if the name is an empty string and throw an exception if it is
-            if (String.IsNullOrEmpty(value) || value.GetType() != typeof(string))
-            {
-                throw new ArgumentException("Name must be a non-empty string!");
-            }
+            if (String.IsNullOrEmpty(value)) throw new ArgumentNullException(this.name, "Name must be a non-empty string!");
             this.name = value;
         }
     }
@@ -36,10 +34,8 @@ public class Person
         set
         {
             //check if the age is a valid integer number  and throw and exception if it's not
-            if (value.GetType() != typeof(int) || value > 100 || value < 1)
-            {
-                throw new ArgumentException("Age should be an integer numbr in the range [1..100]");
-            }
+            if (value > 100 || value < 1) throw new ArgumentOutOfRangeException(Convert.ToString(this.age),
+                "Age should be an integer number in the range [1..100]");
             this.age = value;
         }
     }
@@ -51,33 +47,34 @@ public class Person
         set
         {
             //check if the Email is vaid with our custom function and throw exception if it's not
-            if (!isValidEmail(value))
-            {
-                throw new ArgumentException("This is not a valid email address!");
-            }
+            if (!isValidEmail(value) && value.Length > 0) throw new ArgumentException("Email is not valid!");
+            if (value != null && value == String.Empty) throw new ArgumentException("Email can not be an empty string!");
             this.email = value;
         }
     }
 
-   
     //define constructor which takes name, age and email as parameters
     public Person(string name, int age, string email)
     {
-        this.name = Name;
-        this.age = Age;
-        this.email = Email;
+        this.Name = name;
+        this.Age = age;
+        this.Email = email;
     }
-    //define constructor which takes name and  age and chains to the previus cunstroctor, setting a default value of string.Empty
-    //to the email parameter
-    public Person(string name, int age) : this(name, age, string.Empty)
-    {
-       
-    }
+    //define constructor which takes name and  age and chains to the previus cunstroctor, setting a default value of null to the email parameter
+    public Person(string name, int age)
+        : this(name, age, null) { }
+
 
     //Implement the ToString() method to enable printing persons at the console
     public override string ToString()
     {
-        return string.Format("Name:{0}, Age: {1}, Eamil:{2}", this.name, this.age, this.email ?? "[not available]");
+        StringBuilder personInfo = new StringBuilder();
+        personInfo.Append("Name: " + this.name + ", Age: " + this.age);
+        if (this.email != null)
+        {
+            personInfo.Append(", Email: " + this.email);
+        }
+        return personInfo.ToString();
     }
 
     //a private function to chek if the Email is a valid email address
@@ -87,7 +84,7 @@ public class Person
         bool isValid = new EmailAddressAttribute().IsValid(email);
         return isValid;
     }
-    
+
 }
 
 //testing and running the Person class
@@ -99,24 +96,25 @@ class PersonTester
         Person firstPerson = new Person("Gosho", 23, "gosho@epich.bg");
         Console.WriteLine(firstPerson);
 
-        //second test is clean all data is valid but we dont assogn email to the new object
+        //second test is clean all data is valid but we dont assign email to the new object
         Person secondPerson = new Person("Pesho", 33);
         Console.WriteLine(secondPerson);
 
         //third test we assign invalid empty string for a name  and an exception is thrown
-        Person thirdPerson = new Person("", 19); //тук проверката не минава и не хвърля ексепшън
-        thirdPerson.Name = ""; //тук проверката минава и хвърля ексепшън
+        Person thirdPerson = new Person("", 19);
         Console.WriteLine(thirdPerson);
 
         //fourth test we assign invalid integer for an age  and an exception is thrown
-        Person fourthPerson = new Person("Penka", 101); //тук проверката не минава и не хвърля ексепшън
-        fourthPerson.Age = 400; //тук проверката минава и хвърля ексепшън
+        Person fourthPerson = new Person("Penka", 101);
         Console.WriteLine(fourthPerson);
 
-        //fifth test we assign invalid emailnd an exception is thrown
-        Person fifthPerson = new Person("Ginka", 26, "ginkaepichka.som"); //тук проверката не минава и не хвърля ексепшън
-        fifthPerson.Email = "email"; //тук проверката минава и хвърля ексепшън
+        //fifth test we assign invalid email and an exception is thrown
+        Person fifthPerson = new Person("Ginka", 26, "ginkaepichka.som");
         Console.WriteLine(fifthPerson);
+
+        //fifth test we assign invalid invalid empty string for an email and an  exception is thrown
+        Person sixthPerson = new Person("Grozdanka", 66, "");
+        Console.WriteLine(sixthPerson);
     }
 }
 
