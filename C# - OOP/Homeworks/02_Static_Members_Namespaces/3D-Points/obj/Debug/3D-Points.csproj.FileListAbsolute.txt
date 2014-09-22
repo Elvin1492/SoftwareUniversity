@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\02_Static_Members_Namespaces\3D-Points\bin\Debug\3D-Points.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\02_Static_Members_Namespaces\3D-Points\bin\Debug\3D-Points.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\02_Static_Members_Namespaces\3D-Points\bin\Debug\3D-Points.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\02_Static_Members_Namespaces\3D-Points\obj\Debug\3D-Points.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\02_Static_Members_Namespaces\3D-Points\obj\Debug\3D-Points.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\02_Static_Members_Namespaces\3D-Points\obj\Debug\3D-Points.pdb

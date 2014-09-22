@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D-Points", "3D-Points\3D-Points.csproj", "{DF1088DE-71BA-4961-B83F-32DEC42B1BED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTML-Dispatcher", "HTML-Dispatcher\HTML-Dispatcher.csproj", "{5EE27DAF-68DF-47BA-8163-67D2D8FB41D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Namespaces", "Namespaces\Namespaces.csproj", "{723BF201-A842-4C1F-89B2-70F389079C32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF1088DE-71BA-4961-B83F-32DEC42B1BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF1088DE-71BA-4961-B83F-32DEC42B1BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF1088DE-71BA-4961-B83F-32DEC42B1BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF1088DE-71BA-4961-B83F-32DEC42B1BED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EE27DAF-68DF-47BA-8163-67D2D8FB41D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EE27DAF-68DF-47BA-8163-67D2D8FB41D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EE27DAF-68DF-47BA-8163-67D2D8FB41D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EE27DAF-68DF-47BA-8163-67D2D8FB41D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{723BF201-A842-4C1F-89B2-70F389079C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{723BF201-A842-4C1F-89B2-70F389079C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{723BF201-A842-4C1F-89B2-70F389079C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{723BF201-A842-4C1F-89B2-70F389079C32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

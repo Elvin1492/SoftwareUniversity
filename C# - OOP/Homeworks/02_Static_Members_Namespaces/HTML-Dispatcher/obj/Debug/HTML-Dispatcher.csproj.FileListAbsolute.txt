@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\02_Static_Members_Namespaces\HTML-Dispatcher\bin\Debug\HTML-Dispatcher.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\02_Static_Members_Namespaces\HTML-Dispatcher\obj\Debug\HTML-Dispatcher.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\02_Static_Members_Namespaces\HTML-Dispatcher\bin\Debug\HTML-Dispatcher.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\02_Static_Members_Namespaces\HTML-Dispatcher\bin\Debug\HTML-Dispatcher.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\02_Static_Members_Namespaces\HTML-Dispatcher\obj\Debug\HTML-Dispatcher.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\02_Static_Members_Namespaces\HTML-Dispatcher\obj\Debug\HTML-Dispatcher.pdb
