@@ -1,0 +1,12 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\Handling-Exceptions\Solution1\02_Enter_Numbers\bin\Debug\02_Enter_Numbers.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\Handling-Exceptions\Solution1\02_Enter_Numbers\obj\Debug\02_Enter_Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\Handling-Exceptions\Solution1\02_Enter_Numbers\bin\Debug\02_Enter_Numbers.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\Handling-Exceptions\Solution1\02_Enter_Numbers\bin\Debug\02_Enter_Numbers.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\Handling-Exceptions\Solution1\02_Enter_Numbers\obj\Debug\02_Enter_Numbers.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\Handling-Exceptions\Solution1\02_Enter_Numbers\obj\Debug\02_Enter_Numbers.pdb
+C:\Users\Borislav\Desktop\github\SoftwareUniversity\C# - OOP\Homeworks\03_Handling_Exceptions\02_Enter_Numbers\bin\Debug\02_Enter_Numbers.exe.config
+C:\Users\Borislav\Desktop\github\SoftwareUniversity\C# - OOP\Homeworks\03_Handling_Exceptions\02_Enter_Numbers\obj\Debug\02_Enter_Numbers.exe
+C:\Users\Borislav\Desktop\github\SoftwareUniversity\C# - OOP\Homeworks\03_Handling_Exceptions\02_Enter_Numbers\obj\Debug\02_Enter_Numbers.pdb
+C:\Users\Borislav\Desktop\github\SoftwareUniversity\C# - OOP\Homeworks\03_Handling_Exceptions\02_Enter_Numbers\bin\Debug\02_Enter_Numbers.exe
+C:\Users\Borislav\Desktop\github\SoftwareUniversity\C# - OOP\Homeworks\03_Handling_Exceptions\02_Enter_Numbers\bin\Debug\02_Enter_Numbers.pdb
+C:\Users\Borislav\Desktop\github\SoftwareUniversity\C# - OOP\Homeworks\03_Handling_Exceptions\02_Enter_Numbers\obj\Debug\02_Enter_Numbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\Handling-Exceptions\Solution1\01_Square_Root\bin\Debug\01_Square_Root.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\Handling-Exceptions\Solution1\01_Square_Root\bin\Debug\01_Square_Root.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\Handling-Exceptions\Solution1\01_Square_Root\bin\Debug\01_Square_Root.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\Handling-Exceptions\Solution1\01_Square_Root\obj\Debug\01_Square_Root.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\Handling-Exceptions\Solution1\01_Square_Root\obj\Debug\01_Square_Root.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\Handling-Exceptions\Solution1\01_Square_Root\obj\Debug\01_Square_Root.pdb
+C:\Users\Borislav\Desktop\github\SoftwareUniversity\C# - OOP\Homeworks\03_Handling_Exceptions\01_Square_Root\bin\Debug\01_Square_Root.exe.config
+C:\Users\Borislav\Desktop\github\SoftwareUniversity\C# - OOP\Homeworks\03_Handling_Exceptions\01_Square_Root\obj\Debug\01_Square_Root.exe
+C:\Users\Borislav\Desktop\github\SoftwareUniversity\C# - OOP\Homeworks\03_Handling_Exceptions\01_Square_Root\obj\Debug\01_Square_Root.pdb
