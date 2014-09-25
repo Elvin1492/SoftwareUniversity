@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\04_Other_Types_in_OOP\FractionCalculator\bin\Debug\FractionCalculator.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\04_Other_Types_in_OOP\FractionCalculator\bin\Debug\FractionCalculator.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\04_Other_Types_in_OOP\FractionCalculator\bin\Debug\FractionCalculator.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\04_Other_Types_in_OOP\FractionCalculator\obj\Debug\FractionCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\04_Other_Types_in_OOP\FractionCalculator\obj\Debug\FractionCalculator.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\04_Other_Types_in_OOP\FractionCalculator\obj\Debug\FractionCalculator.pdb

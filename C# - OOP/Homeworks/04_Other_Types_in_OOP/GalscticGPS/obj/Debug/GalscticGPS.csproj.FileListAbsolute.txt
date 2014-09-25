@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\04_Other_Types_in_OOP\GalscticGPS\bin\Debug\GalscticGPS.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\04_Other_Types_in_OOP\GalscticGPS\bin\Debug\GalscticGPS.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\04_Other_Types_in_OOP\GalscticGPS\bin\Debug\GalscticGPS.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\04_Other_Types_in_OOP\GalscticGPS\obj\Debug\GalscticGPS.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\04_Other_Types_in_OOP\GalscticGPS\obj\Debug\GalscticGPS.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\04_Other_Types_in_OOP\GalscticGPS\obj\Debug\GalscticGPS.pdb

@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\04_Other_Types_in_OOP\GenericList\bin\Debug\GenericList.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\04_Other_Types_in_OOP\GenericList\bin\Debug\GenericList.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\04_Other_Types_in_OOP\GenericList\bin\Debug\GenericList.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\04_Other_Types_in_OOP\GenericList\obj\Debug\GenericList.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\04_Other_Types_in_OOP\GenericList\obj\Debug\GenericList.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\04_Other_Types_in_OOP\GenericList\obj\Debug\GenericList.pdb
