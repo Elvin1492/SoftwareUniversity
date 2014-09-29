@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\06_Functional_Programming\01_StringBuilder_Extensions\bin\Debug\01_StringBuilder_Extensions.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\06_Functional_Programming\01_StringBuilder_Extensions\bin\Debug\01_StringBuilder_Extensions.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\06_Functional_Programming\01_StringBuilder_Extensions\bin\Debug\01_StringBuilder_Extensions.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\06_Functional_Programming\01_StringBuilder_Extensions\obj\Debug\01_StringBuilder_Extensions.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\06_Functional_Programming\01_StringBuilder_Extensions\obj\Debug\01_StringBuilder_Extensions.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\06_Functional_Programming\01_StringBuilder_Extensions\obj\Debug\01_StringBuilder_Extensions.pdb

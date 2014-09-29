@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\06_Functional_Programming\StudentApp\bin\Debug\StudentApp.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\06_Functional_Programming\StudentApp\obj\Debug\StudentApp.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\06_Functional_Programming\StudentApp\bin\Debug\StudentApp.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\06_Functional_Programming\StudentApp\bin\Debug\StudentApp.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\06_Functional_Programming\StudentApp\obj\Debug\StudentApp.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\06_Functional_Programming\StudentApp\obj\Debug\StudentApp.pdb

@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\06_Functional_Programming\02_LINQ_etension_methods\obj\Debug\02_LINQ_etension_methods.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\06_Functional_Programming\02_LINQ_etension_methods\bin\Debug\02_LINQ_etension_methods.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\06_Functional_Programming\02_LINQ_etension_methods\bin\Debug\02_LINQ_etension_methods.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\06_Functional_Programming\02_LINQ_etension_methods\bin\Debug\02_LINQ_etension_methods.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\06_Functional_Programming\02_LINQ_etension_methods\obj\Debug\02_LINQ_etension_methods.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\06_Functional_Programming\02_LINQ_etension_methods\obj\Debug\02_LINQ_etension_methods.pdb
