@@ -27,19 +27,14 @@ namespace StudentClass
             // change the first student's name and the second student's age  several times to trigger the event
             firstStudent.Name = ("Pesho Manekena");
             firstStudent.Age = 25;
-
             secondStudent.Name = ("Mara Obshtata");
             secondStudent.Age = 20;
 
-            firstStudent.Name = ("Bai Pesho");
-            firstStudent.Age = 48;
-
-            secondStudent.Name = ("Tetka Mara");
-            secondStudent.Age = 43;
-            
- 
-
-
+            // set the properties with the same values to check that an event is not triggered
+            firstStudent.Name = ("Pesho Manekena");
+            firstStudent.Age = 25;
+            secondStudent.Name = ("Mara Obshtata");
+            secondStudent.Age = 20;            
         }
     }
 }

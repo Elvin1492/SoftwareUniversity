@@ -37,10 +37,14 @@ namespace StudentClass
                 {
                     throw new ArgumentException("Name should be at lest two characters");
                 }
-                 
-                this.changedArgs = new PropertyChangedEventArgs("Name", this.Name, value); 
+
+                if (value != this.Name)
+                {
+                    this.changedArgs = new PropertyChangedEventArgs("Name", this.Name, value);
+                    this.OnPropertyChanged(this, changedArgs);
+                }
+
                 this.name = value;
-                this.OnPropertyChanged(this, changedArgs);
             }
         }
 
@@ -54,9 +58,13 @@ namespace StudentClass
                     throw new ArgumentOutOfRangeException("Age shoul be a number in the range [0....150]");
                 }
 
-                this.changedArgs = new PropertyChangedEventArgs("Age", this.Age.ToString(),value.ToString());
+                if (value != this.Age)
+                {
+                    this.changedArgs = new PropertyChangedEventArgs("Age", this.Age.ToString(), value.ToString());
+                    this.OnPropertyChanged(this, changedArgs);
+                }
+
                 this.age = value;
-                this.OnPropertyChanged(this, changedArgs);                
             }
         }
 
