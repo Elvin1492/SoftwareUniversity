@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\07-Inheritance-and-abstraction\School\bin\Debug\School.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\07-Inheritance-and-abstraction\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\07-Inheritance-and-abstraction\School\bin\Debug\School.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\07-Inheritance-and-abstraction\School\bin\Debug\School.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\07-Inheritance-and-abstraction\School\obj\Debug\School.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\07-Inheritance-and-abstraction\School\obj\Debug\School.pdb

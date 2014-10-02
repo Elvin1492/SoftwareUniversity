@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\07-Inheritance-and-abstraction\Animal\bin\Debug\Animal.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\07-Inheritance-and-abstraction\Animal\bin\Debug\Animal.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\07-Inheritance-and-abstraction\Animal\bin\Debug\Animal.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\07-Inheritance-and-abstraction\Animal\obj\Debug\Animal.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\07-Inheritance-and-abstraction\Animal\obj\Debug\Animal.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\07-Inheritance-and-abstraction\Animal\obj\Debug\Animals.csprojResolveAssemblyReference.cache

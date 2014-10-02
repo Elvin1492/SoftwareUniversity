@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\07-Inheritance-and-abstraction\CompanyHierarchy\bin\Debug\CompanyHierarchy.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\07-Inheritance-and-abstraction\CompanyHierarchy\obj\Debug\CompanyHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\07-Inheritance-and-abstraction\CompanyHierarchy\bin\Debug\CompanyHierarchy.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\07-Inheritance-and-abstraction\CompanyHierarchy\bin\Debug\CompanyHierarchy.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\07-Inheritance-and-abstraction\CompanyHierarchy\obj\Debug\CompanyHierarchy.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\07-Inheritance-and-abstraction\CompanyHierarchy\obj\Debug\CompanyHierarchy.pdb

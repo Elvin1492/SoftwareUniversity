@@ -1,0 +1,1 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\07-Inheritance-and-abstraction\Animal\bin\Debug\Animal.exe.config
