@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\08_Encapsulation_and_Polymorphysm\BankOfKurtovoKonare\bin\Debug\BankOfKurtovoKonare.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\08_Encapsulation_and_Polymorphysm\BankOfKurtovoKonare\bin\Debug\BankOfKurtovoKonare.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\08_Encapsulation_and_Polymorphysm\BankOfKurtovoKonare\bin\Debug\BankOfKurtovoKonare.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\08_Encapsulation_and_Polymorphysm\BankOfKurtovoKonare\obj\Debug\BankOfKurtovoKonare.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\08_Encapsulation_and_Polymorphysm\BankOfKurtovoKonare\obj\Debug\BankOfKurtovoKonare.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\08_Encapsulation_and_Polymorphysm\BankOfKurtovoKonare\obj\Debug\BankOfKurtovoKonare.csprojResolveAssemblyReference.cache

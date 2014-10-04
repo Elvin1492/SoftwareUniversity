@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\08_Encapsulation_and_Polymorphysm\Shape\bin\Debug\Shape.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\08_Encapsulation_and_Polymorphysm\Shape\obj\Debug\Shape.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\08_Encapsulation_and_Polymorphysm\Shape\bin\Debug\Shape.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\08_Encapsulation_and_Polymorphysm\Shape\bin\Debug\Shape.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\08_Encapsulation_and_Polymorphysm\Shape\obj\Debug\Shape.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\08_Encapsulation_and_Polymorphysm\Shape\obj\Debug\Shape.pdb
