@@ -27,7 +27,7 @@ namespace BankOfKurtovoKonare.Accounts
             }
         }
 
-        public void WithdrawMoney(decimal withdrawSum)
+        public virtual void WithdrawMoney(decimal withdrawSum)
         {
             decimal withdraw = withdrawSum;
             if (withdraw > this.Balance)
