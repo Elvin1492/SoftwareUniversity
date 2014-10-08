@@ -1,0 +1,5 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\09_CommonType_System\StringDisperser\bin\Debug\StringDisperser.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\09_CommonType_System\StringDisperser\bin\Debug\StringDisperser.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\09_CommonType_System\StringDisperser\bin\Debug\StringDisperser.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\09_CommonType_System\StringDisperser\obj\Debug\StringDisperser.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\09_CommonType_System\StringDisperser\obj\Debug\StringDisperser.pdb

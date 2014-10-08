@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\09_CommonType_System\Customer\bin\Debug\Customer.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\09_CommonType_System\Customer\bin\Debug\Customer.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\09_CommonType_System\Customer\bin\Debug\Customer.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\09_CommonType_System\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\09_CommonType_System\Customer\obj\Debug\Customer.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\09_CommonType_System\Customer\obj\Debug\Customer.pdb
