@@ -1,0 +1,5 @@
+C:\Users\Borislav\Desktop\Softuni\Level 2\High-Quality-Code\04_CodeDocumentation\C#\obj\Debug\StringExtensions.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\Softuni\Level 2\High-Quality-Code\04_CodeDocumentation\C#\bin\Debug\StringExtensions.dll
+C:\Users\Borislav\Desktop\Softuni\Level 2\High-Quality-Code\04_CodeDocumentation\C#\bin\Debug\StringExtensions.pdb
+C:\Users\Borislav\Desktop\Softuni\Level 2\High-Quality-Code\04_CodeDocumentation\C#\obj\Debug\StringExtensions.dll
+C:\Users\Borislav\Desktop\Softuni\Level 2\High-Quality-Code\04_CodeDocumentation\C#\obj\Debug\StringExtensions.pdb
