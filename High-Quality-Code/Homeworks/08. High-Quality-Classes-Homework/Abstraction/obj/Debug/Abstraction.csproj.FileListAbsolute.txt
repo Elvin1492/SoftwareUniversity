@@ -1,0 +1,5 @@
+C:\Users\Borislav\Desktop\Softuni\Level 2\High-Quality-Code\08_High_quality_classes\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\Softuni\Level 2\High-Quality-Code\08_High_quality_classes\08. High-Quality-Classes-Homework\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\Borislav\Desktop\Softuni\Level 2\High-Quality-Code\08_High_quality_classes\08. High-Quality-Classes-Homework\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\Borislav\Desktop\Softuni\Level 2\High-Quality-Code\08_High_quality_classes\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\Borislav\Desktop\Softuni\Level 2\High-Quality-Code\08_High_quality_classes\08. High-Quality-Classes-Homework\Abstraction\obj\Debug\Abstraction.pdb
