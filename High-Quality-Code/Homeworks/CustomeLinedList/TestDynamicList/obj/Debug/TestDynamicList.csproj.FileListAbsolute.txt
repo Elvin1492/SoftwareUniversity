@@ -1,0 +1,7 @@
+C:\Users\Borislav\Desktop\Softuni\Level 2\High-Quality-Code\09_Unit_Testing\Homework\09. Unit-Tests-Homework\CustomeLinedList\TestDynamicList\bin\Debug\TestDynamicList.dll
+C:\Users\Borislav\Desktop\Softuni\Level 2\High-Quality-Code\09_Unit_Testing\Homework\09. Unit-Tests-Homework\CustomeLinedList\TestDynamicList\bin\Debug\TestDynamicList.pdb
+C:\Users\Borislav\Desktop\Softuni\Level 2\High-Quality-Code\09_Unit_Testing\Homework\09. Unit-Tests-Homework\CustomeLinedList\TestDynamicList\bin\Debug\CustomLinkedList.dll
+C:\Users\Borislav\Desktop\Softuni\Level 2\High-Quality-Code\09_Unit_Testing\Homework\09. Unit-Tests-Homework\CustomeLinedList\TestDynamicList\bin\Debug\CustomLinkedList.pdb
+C:\Users\Borislav\Desktop\Softuni\Level 2\High-Quality-Code\09_Unit_Testing\Homework\09. Unit-Tests-Homework\CustomeLinedList\TestDynamicList\obj\Debug\TestDynamicList.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\Softuni\Level 2\High-Quality-Code\09_Unit_Testing\Homework\09. Unit-Tests-Homework\CustomeLinedList\TestDynamicList\obj\Debug\TestDynamicList.dll
+C:\Users\Borislav\Desktop\Softuni\Level 2\High-Quality-Code\09_Unit_Testing\Homework\09. Unit-Tests-Homework\CustomeLinedList\TestDynamicList\obj\Debug\TestDynamicList.pdb
