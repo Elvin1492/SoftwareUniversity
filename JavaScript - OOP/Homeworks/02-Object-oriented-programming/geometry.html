@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Canvas Geometry API</title>
+	<link rel="stylesheet" href="geometry_styles.css">
+	<script src="shapes.js"></script>
+	<script src="geometry-api.js"></script>
+</head>
+<body>
+    <div id="wrapper">
+	    <h1>Canvas Geometry API</h1>
+	    <section>
+	    <!--This is form from where we take the input data-->
+		    <div id="input">
+			    <form method="get">
+			    <div id="basic-input" class="input-data">
+			   	    <label for="x1">X: </label>
+				    <input type="number" name="x1" id="x1" min="1" max="1100">
+				    <label for="y1">Y: </label>
+				    <input type="number" name="y1" id="y1" min="1" max="1100">
+				    <label for="color">Color: </label>
+				    <input type="color" name="color" id="color">			    	
+			    </div>
+			    <div id="shape-input" class="input-data">
+			    	<label for="shape">Shape</label>			    
+				    <select name="shape" id="shape-select">
+				    	<option value="Triangle">Triangle</option>
+				    	<option value="Rectangle">Rectangle</option>
+				    	<option value="Circle">Circle</option>
+				    	<option value="Point">Point</option>
+				    	<option value="Segment">Segment</option>
+				    </select>			    	
+			    </div>
+			    <div id="second-point-input" class="input-data">
+			   	    <label for="x2">X2: </label>
+				    <input type="number" name="x2" id="x2" min="0" max="400">
+				    <label for="y2">Y2: </label>
+				    <input type="number" name="y2" id="y2" min="0" max="400">			    	   	
+			    </div>
+			    <div id="third-point-input" class="input-data">
+			   	    <label for="x3">X3: </label>
+				    <input type="number" name="x3" id="x3" min="0" max="400">
+				    <label for="y3">Y3: </label>
+				    <input type="number" name="y3" id="y3" min="0" max="400">			    	   	
+			    </div>
+			    <div id="radius-input" class="input-data">
+			   	    <label for="radius">Radius: </label>
+				    <input type="number" name="radius" id="radius" min="1" max="200">	    	   	
+			    </div>
+			     <div id="width-height-input" class="input-ata">
+			   	    <label for="width">Width: </label>
+				    <input type="number" name="width" id="width" min="1" max="400">
+				    <label for="height">height: </label>
+				    <input type="number" name="height" id="height" min="1" max="400">
+			     </div>
+			      <div class="input-data">
+		            <select id="shapes" name="shapes" size="10">
+		            </select>
+		            <div id="buttons" class="input-data">
+						<button id="remove" type="button">Remove</button>
+		                <button id="add" type="button" onclick="getBasicInput()">Add</button>
+		            </div>
+       			 </div>				    
+	            </form>		    	
+		    </div>
+		    <!--This is the canvas where we draw the shapes-->
+		    <div id="output">
+		   		 <canvas id="canvas"width="400px" height="400px">
+v		   		 </canvas>
+		    </div>
+		    <!--clear float-->
+		    <div class="clearfix"></div>
+	    </section>    	
+    </div>
+    <script src="geometry-api.js"></script>
+</body>
+</html>

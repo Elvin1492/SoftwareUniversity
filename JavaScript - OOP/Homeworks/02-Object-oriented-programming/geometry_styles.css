@@ -1,0 +1,49 @@
+body, div, article, aside, header, nav, ul, li, a, p, span, strong, em, footer, section, h1, h2, h3, h4 {
+    margin:0;
+    padding:0;
+}
+
+body #wrapper {
+	 box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    width: 98%;
+    border: 1px solid black;
+    margin:1% auto;
+    font-family: tahoma, Helvetica, sans-serif;
+}
+
+body #wrapper h1 {
+	text-align: center;
+}
+
+body #wrapper section {
+	width: 98%;
+	border: 1px solid black;
+	padding: 5px;
+	margin: 1% auto;
+}
+
+body #wrapper section  #input, body #wrapper section #output  {
+	  display: inline-block;
+	  float: left;
+	  width: 46%;
+      height: 100%;
+      padding:5px;
+      margin: 1%;
+      border:1px solid black;
+}
+
+.clearfix:after {
+        content:"";
+        display: block;
+        height: 0;
+        clear: both;
+    }
+
+ .input-data {
+ 	margin-bottom: 5px;
+ }
+
+ section select[name="shapes"] {
+    min-width: 90%;
+}
