@@ -1,0 +1,9 @@
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\Assertions-and-Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\Assertions-and-Exceptions\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\Assertions-and-Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\Assertions-and-Exceptions\Exceptions\obj\Debug\Exception-handling.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\Borislav\Desktop\VisualStudio projects\C#-OOP\Homeworks\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions.pdb
+C:\Users\Borislav\Desktop\Softuni\Level 2\High-Quality-Code\12_Defensive_programming\Homework\Assertions-and-Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\Borislav\Desktop\Softuni\Level 2\High-Quality-Code\12_Defensive_programming\Homework\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\Borislav\Desktop\Softuni\Level 2\High-Quality-Code\12_Defensive_programming\Homework\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions.pdb
