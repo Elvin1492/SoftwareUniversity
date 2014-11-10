@@ -1,0 +1,70 @@
+body, div, article, aside, header, nav, ul, li, a, p, span, strong, em, footer, section, h1, h2, h3, h4 {
+    margin:0;
+    padding:0;
+}
+
+body #wrapper {
+	 box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    width: 60%;
+    border: 2px solid black;
+    margin:10px auto;
+    padding: 10px;
+    font-size: 16px;
+    font-family: tahoma, Helvetica, sans-serif;
+}
+
+body #wrapper h1{
+	text-align: center;
+}
+
+body #wrapper #container {
+	 box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    width: 95%;
+    border: 2px solid grey;
+    margin: 5px auto;
+    padding: 10px
+}
+
+
+ body #wrapper div.add-new-sectionField {
+    width: 95%;
+    margin: 5px auto;
+    text-align: left;
+  }
+
+body #wrapper #container div.section {
+     box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    width: 95%;
+    border: 2px solid black;
+    margin: 3px auto;
+    padding: 5px
+}
+
+body #wrapper #container div.section h1.section-title {
+      font-size: 16px;
+      text-align: right;
+}
+
+ body #wrapper #container div.add-new-itemField {
+    width: 95%;
+    margin: 10px auto;
+    text-align: right;
+}
+
+ div.error-mesage {
+    display: none;
+    width: 97%;
+    margin: 5px auto;
+    padding: 10px;
+    border: 1px solid red;
+    color: red;
+  }
+
+  div.add-new-itemField {
+    margin-bottom: 10px;
+  }
+
+ 
