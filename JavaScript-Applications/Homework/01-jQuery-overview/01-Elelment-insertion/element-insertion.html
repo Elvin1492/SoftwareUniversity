@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>List Manipulation</title>
+    <link rel="stylesheet" href="styles/element-insertion.css">
+    <script src="libs/jquery-2.1.1.min.js"></script>
+    <script src="libs/jquery.noty.packaged.min.js"></script>
+    <script src="scripts/element-insertion.js"></script>
+    <script src="scripts/background-color-switch.js"></script>
+</head>
+
+<body>
+    <div id="wrapper">
+        <div id="list-insertion">
+            <h1>Element Insertion</h1>
+            <div class="input-data">
+                <label for="item-text">Name: </label>
+                <input type="text" id="item-text" placeholder="Text...">
+            </div>
+            <div class="input-data">
+                <label for="class-name">Class: </label>
+                <input type="text" id="class-name" placeholder="Class...">
+                <span>*optional</span>
+            </div>
+            <div class="input-data">
+                <button id="add-before-button">Add Before</button>
+                <button id="add-after-button">Add After</button>
+            </div>
+        </div>
+
+        <div id="list-items">
+            <h1>List items</h1>
+            <ul id="dynamic-list">
+                <li class="base-element">Base Item</li>
+            </ul>
+        </div>
+
+        <div id="change-color">
+            <form>
+                <h1>Background Color</h1>
+                <div class="input-data">
+                    <label for="class-picked">Class: </label>
+                    <input type="text" id="classpicked" placeholder="Class...">
+                </div>
+                <div class="input-data">
+                    <label for="color-picked">Color: </label>
+                    <input type="color" id="colorpicked" value="#FFFFFF">
+                </div>
+                <div class="input-data">
+                    <input type="button" value="paint" id="change-color">
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,34 @@
+body, div, article, aside, header, nav, ul, li, a, p, span, strong, em, footer, section, h1, h2, h3, h4 {
+    margin:0;
+    padding:0;
+}
+
+div#wrapper {
+	margin: 10px auto;
+    width: 70%;
+}
+
+div.input-data {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+
+#dynamic-list {
+	margin-left:  15px;
+}
+
+div#change-color, div#list-insertion {
+	float: left;
+	margin-left: 25px;
+	margin-right: 15px;
+	border: 1px solid black;
+	border-radius: 10px;
+	padding: 10px;
+}
+
+div#list-items {
+	float:left;
+	margin-left: 25px;
+	margin-right: 15px;
+}
