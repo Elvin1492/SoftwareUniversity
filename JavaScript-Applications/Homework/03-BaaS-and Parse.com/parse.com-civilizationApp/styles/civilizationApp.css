@@ -1,0 +1,22 @@
+@import url(http://fonts.googleapis.com/css?family=Lobster&subset=latin,cyrillic-ext);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700&subset=latin,cyrillic-ext);
+h1, h2 {
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+}
+li.country-item, li.town-item {
+    margin-top: 5px;
+    font-family: 'Lobster', cursive;
+}
+input[type="button"].edit-country, input[type="button"].edit-town {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#editCountry, #deleteCountry, #towns, #deleteTown, #editTown {
+    display: none;
+}
+#countries, #towns {
+    float: left;
+    width: 400px;
+    margin-left: 20px;
+}

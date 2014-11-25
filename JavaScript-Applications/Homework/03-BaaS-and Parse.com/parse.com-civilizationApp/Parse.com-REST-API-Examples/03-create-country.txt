@@ -1,0 +1,6 @@
+curl -X POST \
+  -H "X-Parse-Application-Id: Jmj9zyCKBGaUu68XCLJmTVPfHP5EqkD8V1WllIve" \
+  -H "X-Parse-REST-API-Key: 7zoNr1hEM0MCoHSF3k0nTyB8zpe6i3UA12geb2Av" \
+  -H "Content-Type: application/json" \
+    -d '{"name":"Montenegro"}' \
+   https://api.parse.com/1/classes/Country

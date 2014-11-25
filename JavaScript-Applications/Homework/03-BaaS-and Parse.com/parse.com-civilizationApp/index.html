@@ -1,0 +1,61 @@
+<!doctype html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Civilization app</title>
+    <meta name="description" content="Civilization App">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="styles/civilizationApp.css">
+    <link href="http://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css" rel="stylesheet">
+    <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="http://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+    <script src="libs/jquery.noty.packaged.min.js"></script>
+    <script src="scripts/civilizationApp.js"></script>
+</head>
+
+<body>
+    <div id="wrapper">
+        <!--list of all countries-->
+        <div id="countries">
+            <h1>Countries</h1>
+            <label for="add-country">Country: </label>
+            <input type="text" id="add-country" placeholder="Country name..." />
+            <input type="button" id="add-country-button" value="Add country" />
+            <p>*Click on a country to view its towns.</p>
+            <ul id="countries-list">
+            </ul>
+        </div>
+         <!--list of all towns by a selected country-->
+        <div id="towns">
+            <h1>Country</h1>
+            <label for="add-Town">Town: </label>
+            <input type="text" id="add-town" placeholder="Town name..." />
+            <input type="button" id="add-town-button" value="Add town" />
+            <p>*Click on a town to search info.</p>
+            <ul id="towns-list">
+            </ul>
+        </div>
+        <!--Dialog box for editing a country-->
+        <div id="editCountry" title="Edit country">
+            <form action="#" method="post">
+                <input type="text" id="newCountryName" />
+            </form>
+        </div>
+        <!--Dialog box for deleting a country-->
+        <div id="deleteCountry" title="Delete country">
+            <p>Are you sure you want to delete this country?</p>
+        </div>
+        <!--Dialog box for deleting a town-->
+        <div id="deleteTown" title="Delete town">
+            <p>Are you sure you want to delete this town?</p>
+        </div>
+        <!--Dialog box for editing a town-->
+        <div id="editTown" title="Edit town">
+            <form action="#" method="post">
+                <input type="text" id="newTownName" />
+            </form>
+        </div>
+    </div>
+</body>
+
+</html>
