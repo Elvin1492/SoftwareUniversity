@@ -1,0 +1,46 @@
+<!doctype html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Poll System</title>
+    <meta name="description" content="poll system">
+    <meta name="viewport" content="width=device-width">
+
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap-theme.min.css">
+    <link rel="stylesheet" type="text/css" href="css/pollSystemApp.css">
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script type="lib/bootstrap.min.js"></script>
+    <script src="lib/jquery.noty.packaged.min.js"></script>
+    <script src="js/ajax-data-loader.js"></script>
+    <script src="js/main.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12" id="heading">
+                <h1>Poll System</h1>
+                <p class="lead">Test your skills.You have exactly 2:00 minutes to answer the following questions and submit them to see your results. If you accidently close the window tab, don't worry we'll save your already checked answers.Good look!</p>
+            </div>
+        </div>
+        <div class="row" id="questions">
+        </div>
+        <div class="row">
+            <div class="col-md-6" id="submit-answers">
+                <a href="#" class="btn btn-default btn-lg btn-block" id="submit-button">Submit answers</a>
+            </div>
+        </div>
+         <!--reuslt-->
+            <div class="row" id="result-div">
+                <div class='col-md-6' id="result-message">
+                    <div class="alert alert-dismissable alert-success">
+                        <p id="result"></p>.
+                    </div>
+                </div>
+            </div>
+    </div>
+</body>
+
+</html>

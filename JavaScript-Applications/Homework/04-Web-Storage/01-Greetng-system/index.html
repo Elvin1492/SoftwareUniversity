@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Greeting system</title>
+    <link rel="stylesheet" type="text/css" href="css/greeting-system.css">
+    <script src="libs/jquery-2.1.1.min.js"></script>
+    <script src="libs/jquery.noty.packaged.min.js"></script>
+    <script src="js/greeting-system.js"></script>
+</head>
+
+<body>
+    <div id="wrapper">
+
+        <div id="first-time-visit">
+            <h3>This is your first time visiting this page.<br/>Please enter your name.</h3>
+            <label for="username">Name: </label>
+            <input type="text" id="username" placeholder="Name..." />
+            <button type="button" id="add-user" value="Send">Send</button>
+        </div>
+        <div id="greeting-message"></div>
+        <div id="visit-statistics">
+            <ul>
+                <h2>Statistics</h2>
+                <li>Session visits*: <span id="session-count">	</span>
+                </li>
+                <li>Total visits*: <span id="total-count"></span> </li>
+            </ul>
+            <div id="interpretation">
+                <ul>
+                    <li class="interpretation">
+                       <strong>Session visits</strong> shows you how many times you have visited this page in your curretly opened browser window.
+                    </li>
+                    <li class="interpretation">
+                      <strong>Total visits</strong> shows you how many times you have visited this page since your first log in from this browser.</li>
+                    <li class="interpretation">
+                        You can clear all your browsing history(session and total visits) from here
+                        <button type="button" id="clear-history">Cear</button>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
