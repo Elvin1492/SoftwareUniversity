@@ -1,0 +1,32 @@
+#welcome-message {
+	width: 90%;
+	margin: 0 auto;
+}
+
+#heading {
+	text-align: center;
+}
+
+#books-table {
+	margin-top: 20px;
+	padding: 5px;
+}
+
+#add-new-book{
+	margin-top: 10px;
+	width: 33%;
+	margin-left:33%;
+	margin-right:33%;
+}
+
+.input-form {
+	margin-bottom: 10px;
+}
+
+.text-centre {
+	text-align: center;
+}
+
+#delete-book-buttons{
+	margin-left: 25%;
+}
