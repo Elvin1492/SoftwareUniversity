@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Bookmakrks</title>
+		<link rel="stylesheet" href="css/styles.css">
+		<script src="script/lib/jquery-2.1.1.js"></script>
+		<script src="script/lib/jquery.noty.packaged.min.js"></script>
+		<script src="script/requester.js"></script>
+		<script src="script/userSession.js" ></script>
+		<script src="script/message-Handler.js"></script>
+		<script src="script/app.js"></script>
+	</head>
+	<body>
+		<div id="wrapper">
+			<header>
+				<h1 id="greet-user">Bookmarks</h1>
+				<a href="#" id="logout-button">Logout</a>
+			</header>
+			<main>
+			<!-- login-->
+			<div  id="login-div" class="login-register">
+				<form  method="get" accept-charset="utf-8">
+					<h2 class="text-center">Login</h2>
+					<div class="login-form">
+						<label	for="login-username">Username</label>
+						<input type="text"  id="login-username" placeholder="Username">
+					</div>
+					<div class="login-form">
+						<label	for="login-password">Password</label>
+						<input type="password" id="login-password" placeholder="password">
+					</div>
+					<div class="login-form buttons-holder" >
+						<button type="button" id="login-button">Login</button>
+						<a href="#" id="register-button">Register</a>
+					</div>
+				</form>
+				
+			</div>
+			<!-- register-->
+			<div id="register-div" class="login-register">
+				<form  method="get" accept-charset="utf-8">
+					<h2 class="text-center">Register</h2>
+					<div class="login-form">
+						<label	for="register-username">Username</label>
+						<input type="text"  id="register-username" placeholder="Username">
+					</div>
+					<div class="login-form">
+						<label	for="register-password">Password</label>
+						<input type="password" id="register-password" placeholder="password">
+					</div>
+					<div class="login-form buttons-holder" >
+						<button type="button" id="submit-registration">Register</button>
+						<a href="#" id="back-to-login">Login</a>
+					</div>
+				</form>
+			</div>
+			<!-- bookmaks-->
+			<div id="bookmarks-view">
+				<div id="bookmarks-holder">
+				</div>
+				<div id="new-bookmark-div" >
+					<form  method="post" accept-charset="utf-8">
+						<h2 class="text-center">New Bookmark</h2>
+						<div id="new-bookmark-input">
+							<div class="new-bookmak-input">
+								<label	for="bookmark-title">Tittle: </label>
+								<input type="text" id="bookmark-title" placeholder="Title ">
+							</div>
+							<div class="new-bookmak-input" >
+								<label	for="bookmark-url">URL:</label>
+								<input type="text" id="bookmark-url" placeholder="URL">
+							</div>
+						</div>					
+						<div id ="new-bookmark-button-holder">
+							<button type="button" id="submit-bookmark">Add</button>
+						</div>
+					</form>
+				</div>
+			</div>
+			</main>
+			<footer>
+				<p class="text-center">&copy; 2014 by SoftUni Foundation, No Rights Reserved
+				</p>
+			</footer>
+		</div>
+	</body>
+</html>
