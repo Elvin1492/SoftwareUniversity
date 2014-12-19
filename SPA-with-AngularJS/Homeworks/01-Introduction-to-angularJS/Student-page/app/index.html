@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Student page</title>
+	</head>
+	<body ng-app="studentPage">
+		<script src="lib/angular/angular.js"></script>
+		<div ng-controller="studentContorller">
+			<h1>Students</h1>
+			<ul id="students-list">
+			    <li><strong>Name: </strong> {{ students.name }}</li>
+			    <li><strong>Photo: <img ng-src="{{ students.photo }}" src=""></strong></li>
+			    <li><strong>Grade: </strong> {{ students.grade }}</li>
+			    <li><strong>School: </strong> {{ students.school }} </li>
+			    <li><strong>Teacher: </strong> {{ students.teacher }} </li>
+			</ul>
+		</div>
+		<div>
+		<label for="image">Place an image URL here:</label>
+			<input type="text" id="image" ng-model="image"/><br>
+			<img ng-src="{{ image }}" src="" >
+		</div>
+		<script src="js/app.js"></script>
+		<script src="js/controllers/studentPage.js"></script>
+	</body>
+</html>

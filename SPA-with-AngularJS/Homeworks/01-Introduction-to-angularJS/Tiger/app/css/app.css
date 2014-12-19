@@ -1,0 +1,27 @@
+.wrapper {
+	background: #999999;
+	margin: 0 auto;
+	width:600px;
+	padding: 10px;
+	color: #434343;
+}
+
+.tigerInfo {
+	width: 290px;
+	float: left;
+	height: auto;
+	overflow: hidden;
+}
+.tigerInfo > h2 {
+	text-align: center;
+}
+
+.tigerInfo > ul li {
+	padding-bottom: 10px;
+	font-size: 18px;
+}
+.image {
+    width: 280px;
+    height: auto;
+};
+
