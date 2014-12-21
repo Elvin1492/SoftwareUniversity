@@ -1,0 +1,27 @@
+/* app css stylesheet */
+
+.container-fluid, .form-horizontal {
+  margin: 10px;
+  padding: 10px;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+.vote-button {
+  cursor: pointer;
+}
+
+.comment-info{
+	overflow: hidden;
+}
+
+#new-video-button{
+	margin: 10px;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
