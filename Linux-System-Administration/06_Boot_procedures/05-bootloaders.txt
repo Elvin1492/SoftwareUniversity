@@ -1,0 +1,79 @@
+Booting:
+
+root device (the most important kernel parameter)
+kernel image + kernel parameters
+initrd image
+
+BOOT:
+   BIOS POST -> BOOT LOADER -> KERNEL -> INITRD -> INIT
+
+With LVM the root device will look like this:
+	root=/dev/VolGroup00/LogVol00
+
+Root local linux machine:
+   kernel root=/dev/XXXX ro init=/bin/bash
+   mount / -o remount,rw (you need this because the kernel will mout your file system read-only)
+   passwd root
+
+Boot loaders:
+* Lilo
+* Grub
+* Grub2
+
+Configuration files:
+- Lilo
+  /etc/lilo.conf
+- Grub
+  /boot/grub/grub.conf or /boot/grub/menu.lst
+- Grub2
+  /boot/grub/grub.cfg
+
+
+Lilo specifics
+ - Static, you can not change the location of your kernel or initrd
+ - You can pass options to the kernel, like init=/bin/bash or root=/dev/sdb3
+ - If you make a mistake or forget to run the lilo command, you may need another way to boot your machine
+
+Grub specifics
+ - Dynamic bootloader, has two separate parts
+ - Dynamic configuration,
+    - you can change devices
+    - you can change kernel/initrd locations
+    - you can pass different options to your kernel
+
+Grub2 specifics
+ - The same as Grub1
+ - Add scripting language
+ - Has a lot of additional plugins
+ - Simplifies the installation of images
+ - More fine graned configuration
+ - Allow network boots
+ - Has its own iPXE
+ - Can load images from http/ftp/tftp/nfs
+
+Lilo configuration
+# Linux bootable partition config begins
+image = /boot/bzImage-3.12.0-terion
+  root = /dev/sda2
+  label = Terion-3.12
+  read-only  # Partitions should be mounted read-only for checking
+# Linux bootable partition config ends
+
+Grub configuration
+# Very important, menu count starts from 0
+#boot=/dev/sda
+default=2
+timeout=5
+splashimage=(hd0,0)/grub/splash.xpm.gz
+hiddenmenu
+title CentOS (2.6.18-348.el5)
+        root (hd0,0)
+        kernel /vmlinuz-2.6.18-348.el5 ro root=/dev/main/root rhgb quiet crashkernel=128M@16M panic=5
+        initrd /initrd-2.6.18-348.el5.img
+
+Grub 2 configuration
+- too big to be here, and too complex :)
+- have a look here:
+     http://www.gnu.org/software/grub/manual/grub.html
+     https://help.ubuntu.com/community/Grub2
+ 

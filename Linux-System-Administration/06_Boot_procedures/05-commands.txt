@@ -1,0 +1,14 @@
+* lilo
+* grub
+* grub-install
+
+* init			(SysV)
+* telinit		(SysV & Upstart)
+* initctl		(upstart)
+* systemctl		(systemd)
+* chkconfig		(RedHat based)
+* update-rc.d	(Debian based)
+
+cd $OLDPWD (goes back to the previous dir you were in)
+
+

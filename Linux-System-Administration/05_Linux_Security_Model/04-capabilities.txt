@@ -1,0 +1,43 @@
+test_cap.c:
+#include <unistd.h>
+int main() {
+  chown("/bin/ls", 500, 500);
+  return 0;
+}
+
+
+user@local:~$ gcc -o test_cap test_cap.c
+user@local:~$ ls -l /bin/ls
+-rwxr-xr-x 1 root root 118520 2009-08-05 12:03 /bin/ls*
+user@local:~$ ./test_cap
+user@local:~$ ls -l /bin/ls
+-rwxr-xr-x 1 root root 118520 2009-08-05 12:03 /bin/ls*
+
+// login as root and set all capabilities (this includes CAP_CHOWN)
+# setcap all+pei  ~user/test_cap
+
+user@local:~$ ls -l /bin/ls
+-rwxr-xr-x 1 root root 118520 2009-08-05 12:03 /bin/ls*
+user@local:~$ ./test_cap
+user@local:~$ ls -ln /bin/ls
+-rwxr-xr-x 1 500 500 118520 2009-08-05 12:03 /bin/ls*
+
+
+root@terion:~# which ping
+/bin/ping
+root@terion:~# getcap /bin/ping
+root@terion:~# setcap cap_net_raw+ep /bin/ping
+root@terion:~# getcap /bin/ping
+/bin/ping = cap_net_raw+ep
+root@terion:~# ll /bin/ping
+-rws--x--x 1 root root 39084 Oct 16  2013 /bin/ping*
+root@terion:~# chmod 755 /bin/ping
+root@terion:~# logout
+hackman@terion:~$ ping 8.8.8.8
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=48 time=41.0 ms
+^C
+--- 8.8.8.8 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 41.026/41.026/41.026/0.000 ms
+hackman@terion:~$ 

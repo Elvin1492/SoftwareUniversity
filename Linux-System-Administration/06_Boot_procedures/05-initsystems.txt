@@ -1,0 +1,128 @@
+init
+ -> terminal0	tty0-256   ttyS0-4 ttyP0-4 ttyUSB0-256  pts/0-1024
+ -> terminal1
+ -> terminal2 -> mingetty mgetty agetty 
+ -> terminal3
+
+SysV 
+	
+	/etc/rc.d/
+		rc.M very large script
+
+	/etc/init.d
+		start|stop|restart|status
+		crond
+
+	/etc/rc0.d/		
+	/etc/rc1.d/
+	/etc/rc2.d/
+		S01crond ->	/etc/init.d/crond
+		S01syslogd ->	/etc/init.d/syslogd
+		K99crond ->	/etc/init.d/crond
+	/etc/rc3.d/
+	/etc/rc4.d/
+	/etc/rc5.d/
+	/etc/rc6.d/
+		chkconfig 
+		update-rc.d
+	
+	chkconfig --add mysql
+
+
+Init systems:
+  * System V
+  * Upstart
+  * Systemd
+
+Ways of executing applications:
+
+System V sequential
+
+  Kernel -> init -> app1 -> app1 -> app3 ... -> login 
+
+System V parallel
+
+  Kernel -> init -> app1 -> app2 ----> app3 -> app6 ----> app7  -> login
+                                   |-> app4           |-> app8
+                                   \-> app5           |-> app9
+                                                           \-> app10
+
+Upstart
+
+  Kernel -> init -> app1 -> app2 ----> app3
+                                   |-> app4
+                                   |-> app5
+                                   |-> app6 -> login
+                                   |-> app7
+                                   |-> app8
+                                   \-> app9
+
+Systemd
+
+  Kernel -> init --> app1
+                 |-> app2
+                 |-> app4
+                 |-> app5
+                 |-> app6
+                 |-> app7 -> login
+                 |-> app8
+                 \-> app9
+
+
+System V init
+    Defines the notion of runlevels
+    /etc/inittab (main configuration file)
+    /etc/rc.d or /etc/init.d
+    /etc/rcX.d or /etc/rc.d/rcX.d
+  Comands used for management: cp, mv, ln, rm, telinit, chkconfig, update-rc.d
+
+
+Upstart - http://upstart.ubuntu.com/
+    Also uses the notion of runlevels but also defines the notion of unit files
+    /etc/init/rc.conf (main configuration file)
+    /etc/inittab (defines only the default runlevel)
+    /etc/init/ (all configurations)
+  Commands used for management: start, stop, status, initctl
+
+
+Systemd - http://www.freedesktop.org/wiki/Software/systemd/
+	Defines the notions of targets and services
+	/etc/systemd/
+	/lib/systemd/
+  Change the default target:
+	ln -s /usr/lib/systemd/system/multi-user.target /etc/systemd/system/default.target
+  Commands used for management: systemctl, systemd-sysv-convert
+
+
+
+
+
+In the traditional Unix style rc directory structure we have the /etc/rc.d directory, which have a few rc scripts(which are also called init scripts) for each run level. All programs started or stopped on that level are listed in those scripts. You don't have different scripts to start, stop and restart these applications.
+
+In the System V rc directory style we have the following dirs:
+    /etc/init.d/
+    /etc/rc.d/rc0.d/
+    /etc/rc.d/rc1.d/
+    /etc/rc.d/rc2.d/
+    /etc/rc.d/rc3.d/
+    /etc/rc.d/rc4.d/
+    /etc/rc.d/rc5.d/
+    /etc/rc.d/rc6.d/
+or:
+    /etc/init.d/
+    /etc/rc.d/
+    /etc/rc0.d/
+    /etc/rc1.d/
+    /etc/rc2.d/
+    /etc/rc3.d/
+    /etc/rc4.d/
+    /etc/rc5.d/
+    /etc/rc6.d/
+
+In both System V structures we have one script /etc/rc.d/rc which is called with the corresponding runlevel. The rc script then lists all the links found the rcX.d dirs and starts/stops all applications.
+The links in the rcX.d directories are links to files in /etc/init.d.
+The files in /etc/init.d are called init scripts, which basicly give you the ability to start, stop and restart the corresponding application.
+The links which start with S are executed on boot. The ones that start with K are executed on shutdown/restart.
+The number after the S/K is used to order which service will be started/stopped first. If there are two or more scripts with the same number, they will be started in parallel, but the init system would wait for all of them to finish before continuing to the next script.
+
+The difference between Unix style init structure and System V is that System V gives you more flexability and it is easyer to manage. But System V introduces more complex software which makes it prone to more bugs and harder to debug. 

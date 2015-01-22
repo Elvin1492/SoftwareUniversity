@@ -1,0 +1,64 @@
+DESCRIBE THE CONTENT OF THE FOLLOWING FILES IN THE /PROC FILE SYSTEM:
+*SWAPS, *STAT, *SCHEDSTAT
+
+/proc is a virtual filesystem.It doesn't contain real files but runtime system information. It is an information centre for the kernel.Files in this directory have a file size of 0, because this is actually just a window to the kernel.The files don't contain data they just poiint to where the actual process information takes place.Each directory here coresponds to an actual process ID. Looking at the process table you can match a processes with it's process ID.
+
+/proc/swaps
+
+*swap space is used on the machine when RAM is full and the system needs more memory,then inactive pages in memory are moved to the swap space 
+
+This file measures swap space and its usage.The output of /proc/swap looks like this:
+
+Filename     Type       Size    Used   Priority
+/dev/sda7    partition  3598332	  0   -1
+
+This info can be found on other places but /proc/swap provides a snapshot of every swap file name, the type of swap space, the total size, and the amount of space that is in use at the moment. The priority column shows how likely it is for the swap file(partitonn) to be used. 
+
+/proc/stat
+
+This file contans various statistics about the system and the kernel activity. All data in this file is agregated since the first boot of the machine.The outut looks like this:
+
+cpu  2255 34 2290 22625563 6290 127 456
+cpu0 1132 34 1441 11311718 3675 127 438
+cpu1 1123 0 849 11313845 2614 0 18
+intr 114930548 113199788 3 0 5 263 0 4 000 0000 000000000.....
+ctxt 1990473
+btime 1415285257
+processes 5260
+procs_running 3
+procs_blocked 0
+
+For example the line with the "cpu" shows the amount of time the CPU has spent performing different tasks.
+The "intr" line gives account of interrupts on the machine since boot.
+The "btime" line shows the time at which the system booted, in seconds
+The "processes" line gives the number of current processes and threads
+The last two lines "procs_running" and "procs_blocked" give info respectiely for... well guess what. About the future prices on the New York Stock Exhange and Sashka Vaseva's mobile. Go call her :)
+
+/proc/schedstat
+
+Well this file holds countles CPU statistics. Hell of allot statistics
+Just look at this output:
+
+timestamp 4297261772
+cpu0 126 0 11575271 3993710 6117628 3686467 2383308599199 879808474166 7575661
+domain0 00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000003 37680 22432 8931 4303966 7200 19 54 22378 33902 32094 1216 463376 744 1 6 32088 3273904 3047924 149187 38761087 89916 35 3122 3044802 0 0 0 0 0 0 0 0 0 2431155 111938 0.....................
+
+Statistics such as the number of running processes and the queue length of each CPU to name a few and others which I honestly have no idea what they are for:
+
+Number of times both the active and the expired queue were empty
+Number of times we switched to the expired queue and reused it
+Number of times just the active queue was empty
+Number of times just the expired queue was empty
+
+Should I go on. That doesn' even make sence to me so I'll just stop right there :)
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,5 @@
+cat /etc/passwd
+cat /etc/shadow
+cat /etc/group
+cat /etc/gshadow
+cat /etc/nsswitch.conf

@@ -1,0 +1,159 @@
+1. Linux Directory structure - description of all standard directories in Linux
+2. Standard Linux Security Model
+2.1. File permitions
+2.2. Users & Groups
+2.3. Special file flags
+2.4. Special attributes
+2.5. Device files
+
+
+Describing the the Unix file permitions model
+
+ 
+
+                   / - how many nodes are connected to this file/dir (not the number of files or dirs in dir)
+
+                   |                         / - date & time
+
+                   |        size - \         |             / - file name
+
+                   |               |         |             |
+
+      -rw-r--r--   1 root root  4483445 2005-12-17 00:19 httpd-2.0.55.tar.bz2
+
+        |  |  |       |    |
+
+ owner -/  |  |       |    \ - group owner                        rwx
+
+ group ----/  |       \ - owner's username                   7 - 0111
+
+ others ------/                                              6 - 0110
+
+                                                             5 - 0101
+
+ chmod 755 filename                                          4 - 0100
+
+                                                             3 - 0011
+
+ owner | group | others                user mask             2 - 0010
+
+  rwx  |  rwx  |  rwx   | mode      mode | permitions        1 - 0001
+
+-------|-------|--------|------    ------|------------       0 - 0000
+
+  111  |  101  |  101   | 755       000  |   666
+
+  110  |  100  |  100   | 644       022  |   644
+
+  111  |  000  |  000   | 700       044  |   622
+
+  110  |  000  |  000   | 600       066  |   600
+
+
+
+0 - 0000
+
+1 - 0001
+
+2 - 0010
+
+3 - 0011
+
+4 - 0100
+
+5 - 0101
+
+6 - 0110
+
+7 - 0111
+
+
+
+How to calculate UMASK:
+
+        base    0666    0666    0666    0666    0666    0666    0666    0666
+
+        umask   0000    0111    0222    0333    0444    0555    0666    0777
+
+        result  0666    0666    0444    0444    0222    0222    0000    0000
+
+
+
+T - sticky bit
+
+S - setuid bit
+
+
+
+1000 - +t
+
+2000 - g+s
+
+3000 - g+s,+t
+
+4000 - u+s
+
+5000 - u+s,+t
+
+6000 - g+s,u+s
+
+7000 - g+s,u+s,+t
+
+
+
+hackman@gamelon:~$ ls -la a
+
+---S--S--T 1 hackman hackman 0 2009-10-20 13:45 a
+
+
+
+ 
+
+
+/etc/passwd
+USERNAME:PASSWORD:UID:GID:ADDITIONAL INFO:HOMEFOLDER:SHELL
+root:x:0:0:The Administrator:/root:/bin/bash
+bin:x:1:1:bin:/bin:
+/etc/shadow
+/etc/group - since 1992
+GROUPNAME:PASSWORD:GROUPID:GROUP USERS
+/etc/gshadow
+
+/etc/nsswitch.conf - since 1999
+
+commands:
+useradd - add new user
+userdel - removes existing user
+usermod - modifies user information
+passwd - change user passowd
+groupadd - add new group
+groupdel - removes existing group
+groupmod - change group name
+groups - show all groups in which you are member
+gpasswd - change group password
+chsh - chnage user shell
+chfn - change user info
+chown - change the owner
+chgrp - change the group owner
+chmod - change file permissions
+umask - change the file creation mask
+
+additional chmod:
+sticky bit - 1
+set gid - 2
+set gid & sticky bit - 3
+set uid - 4
+set uid & sticky bit - 5
+set uid & set gid - 6
+set uid & set gid & sticky bit - 7
+
+additional file attributes:
+lsattr - list file attributes
+chattr - change file attributes
+A - noatime
+a - append only
+i - immutable
+j - jurnaled (useful only with ext3)
+s - secure delete
+S - sync to disk
+u - undelete (not for ext2 & ext3)

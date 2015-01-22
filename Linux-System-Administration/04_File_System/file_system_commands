@@ -1,0 +1,40 @@
+cfdisk - console based graphical partitioning
+sfdisk - console based partitioning (optimized for use in scripts)
+fdisk - the most spread out partitioning software
+parted - partitioning software able to create and modify GPT
+
+mkfs - create a file system
+mkfs.ext2
+mkfs.ext3
+mkfs.ext4
+mkfs.xfs
+mkfs.reiserfs
+
+check file system for errors
+fsck - general purpose filesystem checker, it runs the actual fsck command
+e2fsck - ext2/3/4 dedicated filesystem cache.
+
+
+mount - команда за монтиране на диск в директория
+  -o remount,rw
+  -t tmpfs
+  --bind & --rbind
+
+Walking trough directories:
+
+cd /
+cd /home
+cd /etc
+
+Full path:
+  /usr/local/etc/file1
+
+Relative path:
+  etc/file1
+
+Strange paths:
+  /usr/local/etc/../etc/../../bin/../.././var/../../media/cdrom/./ = ???
+
+  ~vancho
+  ~pesho/www = /home/pesho/www
+

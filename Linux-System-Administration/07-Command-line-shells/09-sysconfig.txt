@@ -1,0 +1,101 @@
+Standard system configuration
+
+/etc/fstab
+/etc/mtab
+/etc/inittab
+/etc/motd
+/etc/issue
+/etc/login.defs
+/etc/security
+/etc/securetty
+/etc/shells
+/etc/sysctl.conf
+/etc/modules.conf
+/etc/modprobe.conf
+/etc/nsswitch.conf
+/etc/profile
+/etc/timezone
+/etc/localtime
+
+
+sysctl, /proc & /sys
+
+klogd & syslogd
+1. Kernel logging
+Valid level: alert, crit, debug, emerg, err, error (deprecated synonym for err), info, notice, panic (deprecated synonym for emerg), warning, warn (deprecated synonym for warning).
+2. Local logging
+The facility is one of the following keywords: auth, authpriv, cron, daemon, kern, lpr, mail, mark, news, security (same as auth), syslog, user, uucp and local0 through local7.
+The keyword security should not be used anymore and mark is only for internal use and therefore should not be used in applications.
+Anyway, you may want to specify and redirect these messages here. The facility specifies the subsystem that produced the message, i.e. all mail programs log with the mail facility (LOG_MAIL) if they log using syslog.
+from /usr/src/linux/include/linux/kernel.h:
+
+ 
+
+#define KERN_EMERG      "<0>"   /* system is unusable                   */
+
+#define KERN_ALERT      "<1>"   /* action must be taken immediately     */
+
+#define KERN_CRIT       "<2>"   /* critical conditions                  */
+
+#define KERN_ERR        "<3>"   /* error conditions                     */
+
+#define KERN_WARNING    "<4>"   /* warning conditions                   */
+
+#define KERN_NOTICE     "<5>"   /* normal but significant condition     */
+
+#define KERN_INFO       "<6>"   /* informational                        */
+
+#define KERN_DEBUG      "<7>"   /* debug-level messages                 */
+
+ 
+
+
+3. Network logging
+   # Sample syslogd configuration file to
+   # messages to a remote host forward all.
+   *.* @hostname
+
+logrotate.d
+   /etc/logrotate.conf
+   /etc/logrotate.d
+crond
+   /etc/crontabs
+   /etc/cron.d
+   /etc/cron.daily
+   /etc/cron.hourly
+   /etc/cron.weekly
+   /etc/cron.monthly
+   /var/spool/cron/
+   crontab
+   # MIN HOUR DAY MONTH DAYOFWEEK COMMAND
+
+acpid
+slocate
+
+Setup date & time
+manualy
+using ntpd
+
+su & sudo
+/etc/sudoers
+
+How attackers can bypass the noexec option
+/lib/ld-linux.so.2 /bin/echo
+
+RedHat/CentOS
+   /etc/sysconfig/init - параметри към init скриптовете
+   /etc/sysconfig/syslog - параметри към syslogd
+   /etc/sysconfig/crond - параметри към crond
+   /etc/sysconfig/hwconf - настройка на hardware устройството
+   /etc/sysconfig/grub - параметри към
+   /etc/sysconfig/apmd - параметри към
+   /etc/sysconfig/clock - настройки на часовника
+   /etc/sysconfig/kudzu - параметри към kudzu
+   /etc/sysconfig/network - основни настройки на мрежата
+   /etc/sysconfig/network-scripts/ifcfg-lo - настройки на loopback device
+   /etc/sysconfig/network-scripts/ifcfg-eth0 - настройки на eth0 device
+
+Debian/Ubuntu
+   /etc/default/ - параметри към демоните на машината
+   /etc/network/interfaces - настройки на мрежата
+   /etc/network/options - опции към мрежата
