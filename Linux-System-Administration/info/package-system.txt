@@ -1,0 +1,24 @@
+rpm     -> red hat
+dkpg    -> debian
+package -> a binary or source ina single file 
+
+yum     -> read hat packet manager tool 
+          /etc/yum.repos.d  - config file for all repos
+
+
+dpkg -l  ->  list all installed packeges on the machine
+dpkg -r  ->  uninstall package without removing config fille
+             -P for removing and config file
+
+apt      -> debian packet manager tool
+ 
+apt-get  -> does everthing except for search    
+            /etc/apt/sources.list  -  repositories list 
+
+apt-cache search -> search for installed packages
+apt-get dist-upgrade ->  upgrade to highest distro
+apt-get remove  -> removes package without config file
+apt-get purge   -> remove package with config file
+ 
+
+

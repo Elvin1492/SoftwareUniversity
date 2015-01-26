@@ -1,0 +1,12 @@
+tar -> arhivator
+gzip -> compress
+gunzip -> decompress
+
+-c   ->  creeate archive
+-x   ->  extract arhcive
+-z   ->  compress with gzip
+-j   ->  compress with bzip
+.    ->  archive all files
+-f   ->  destinstaion file
+/home/borislav/conf.tar.gz
+  

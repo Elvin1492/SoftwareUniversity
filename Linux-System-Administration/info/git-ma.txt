@@ -1,0 +1,28 @@
+======= PREPARE ==========
+sudo apt-get update
+sudo apt-get install git
+
+======== SETUP ===========
+git config --global user.name "Your Name"
+git config --global user.email "youremail@domain.com"
+git config --list
+                at nano ~/.gitconfig
+[user]
+       name = Your Name
+       email = youremail@domain.com
+
+===== PROJECT INIT ========
+user@host ~/git/testing $ git init
+Initialized empty Git repository in /home/user/git/testing/.git/
+user@host ~/git/testing $ git add .    -> add all files to the repo
+
+======== COMMIT ===========
+user@host ~/git/testing $ git commit -m "Initial Commit" -a   -> message applies to all files 
+user@host ~/git/testing $ git commit -m "Initial Commit" file -> commit specific file
+ 
+========= PUSH ============
+user@host ~/git/testing $ git remote add origin ssh://git@git.domain.tld/repository.git -> adds a remote called 'orogin' and sets the URL
+user@host ~/git/testing $ git remote -v  -> see all remote repos
+user@host ~/git/testing $ git push origin master  
+
+

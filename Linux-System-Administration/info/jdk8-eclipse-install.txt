@@ -1,0 +1,11 @@
+dpkg -l|grep java
+dpkg -l|grep jdk
+
+sudo add-apt-repository ppa:webupd8team/java
+apt-get update
+apt-cashe search java8
+apt-get install package
+
+tar -xzvf eclipse.tar.gz
+mv/home/borislav/
+

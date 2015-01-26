@@ -1,0 +1,5 @@
+ifconfig -a  -> shows all network interfaces
+ofconfig wlan0/eth0 up/down  -> sets a specific interface
+dhclient wlan0/eth0  -> automatic dhcp server config
+ip route list   ->  view defaul gateway address
+cat /etc/reslov.conf  -> conf file for DNS server
