@@ -143,13 +143,16 @@ LEFT OUTER JOIN Employees m
 -- Problem - 21: All employees along with their manager and address
 
 SELECT e.EmployeeID, e.FirstName + ' ' + COALESCE(e.MiddleName , '') +  ' ' + e.LastName AS [Full Name],
-a.AddressText AS [Address],
+COALESCE(a.AddressText,'NA') AS [Address],
+COALESCE(t.Name,'NA') AS [Town],
 COALESCE(m.FirstName + ' ' + COALESCE(m.MiddleName , '') +  ' ' + m.LastName, 'NA' ) AS [Manager Name]
 FROM Employees e
-LEFT OUTER JOIN Addresses a
- ON e.AddressID = a.AddressID
 LEFT OUTER JOIN Employees m
  ON m.EmployeeID = e.ManagerID
+LEFT OUTER JOIN Addresses a
+ ON e.AddressID = a.AddressID
+LEFT OUTER JOIN Towns t
+ ON t.TownID= a.TownID
 
 -----------------------------------------------------------------------------------------------------
 
@@ -166,7 +169,7 @@ FROM Towns
 -- Problem - 23: All employees along with their manager and those who don't have one
 
 SELECT e.EmployeeID, e.FirstName + ' ' + COALESCE(e.MiddleName , '') +  ' ' + e.LastName AS [Full Name],
-a.AddressText AS [Address],
+COALESCE(a.AddressText,'NA') AS [Address],
 COALESCE(m.FirstName + ' ' + COALESCE(m.MiddleName , '') +  ' ' + m.LastName, 'NA' ) AS [Manager Name]
 FROM Employees e
 LEFT OUTER JOIN Addresses a
