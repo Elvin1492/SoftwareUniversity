@@ -1,0 +1,8 @@
+06 - What is a certain database schema normalizations?
+ Normalization is the process of organizing and modifying the tables in a relational database to minimize
+ data redundancy.This is achieved by refactoring a table into smaller ones but without losing information, 
+ by defining foreign keys in the old table referring the primary keys of the new ones extracted.
+ The main advantage of database normalization is avoiding repeated data.By isolating data in this way 
+ further addition, deletion and modifications of an attribute can be made in just one table and then 
+ changes will automatically be applied to data in the corresponding tables propagating through the database
+ using the previously assigned foreign keys. 
