@@ -1,0 +1,3 @@
+Problem 2.	What is Transact-SQL (T-SQL)?
+T-SQL is an extension to SQL by Microsoft used in MS SQL SERVER which allows procedural programming(if statements, loops, extension).
+ There is also support for functions for string and date processing.T-SQL is also used to write store procedures and triggers.
