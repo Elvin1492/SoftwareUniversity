@@ -1,0 +1,97 @@
+// run this script in bash:
+// cat ads.txt | redis-cli > output.txt
+// you'll get the result in a file output.txt
+
+FLUSHALL
+
+SADD authors:username maria_p
+
+HSET authors:maria_p name "Maria Ivanova"
+HSET authors:maria_p email "maria@gmail.com"
+HSET authors:maria_p phone "0883 333 333"
+
+SADD authors:username steve
+
+HSET authors:steve name "Steve Jobs"
+HSET authors:steve email "stefkata@gmail.com"
+HSET authors:steve phone "0666 666 666"
+
+SET ads:count 4
+
+HSET ad:1 title "BMW 320 for Sale"
+HSET ad:1 description "BMW 320d, 2.0 diesel, 4 doors, automatic transmission. Year: 2007. Miles: 107,000. Price: 2400 EUR."
+HSET ad:1 location "Sofia"
+HSET ad:1 date "2014-12-26 12:37"
+HSET ad:1 author "maria_p"
+
+HSET ad:2 title "Job as Housekeeper"
+HSET ad:2 description "I am looking for a job as housekeeper."
+HSET ad:2 location "Plovdiv"
+HSET ad:2 date "2014-12-30 23:43"
+HSET ad:2 author "steve"
+
+HSET ad:3 title "3 bed apartment to let"
+HSET ad:3 description "Very good. A must see. Price: 750 EUR."
+HSET ad:3 location "Sofia"
+HSET ad:3 date "2015-01-17 10:44"
+HSET ad:3 author "maria_p"
+
+HSET ad:4 title "Free MP3 Player"
+HSET ad:4 description "Free MP3 player, broken."
+HSET ad:4 location "Rousse"
+HSET ad:4 date "2014-11-28 21:15"
+HSET ad:4 author "steve"
+
+SET finished "finished" 
+SET results "results"
+
+GET finished
+GET results
+
+SET adscount "ads count: "
+GET adscount
+GET ads:count
+
+SET ad1 "ad 1: "
+GET ad1
+HGETALL ad:1
+
+SET ad2 "ad 2: "
+GET ad2
+HGETALL ad:2
+
+SET ad3 "ad 3: "
+GET ad3
+HGETALL ad:3
+
+SET ad4 "ad 4: "
+GET ad4
+HGETALL ad:4
+
+SET userscount "users count: "
+GET userscount
+SCARD authors:username
+
+SET userslist "users list: "
+GET userslist
+SMEMBERS authors:username
+
+SET mariainfo "user maria_p: "
+GET mariainfo
+HGETALL authors:maria_p
+
+SET steveinfo "user steve: "
+GET steveinfo
+HGETALL authors:steve
+
+
+
+
+
+
+
+
+
+
+
+
