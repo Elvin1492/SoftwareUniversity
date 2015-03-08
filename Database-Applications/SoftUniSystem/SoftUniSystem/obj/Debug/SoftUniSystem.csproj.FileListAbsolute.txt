@@ -1,0 +1,10 @@
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\SoftUniSystem\SoftUniSystem\bin\Debug\SoftUniSystem.exe.config
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\SoftUniSystem\SoftUniSystem\obj\Debug\SoftUniSystem.csprojResolveAssemblyReference.cache
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\SoftUniSystem\SoftUniSystem\bin\Debug\SoftUniSystem.exe
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\SoftUniSystem\SoftUniSystem\bin\Debug\SoftUniSystem.pdb
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\SoftUniSystem\SoftUniSystem\bin\Debug\EntityFramework.dll
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\SoftUniSystem\SoftUniSystem\bin\Debug\EntityFramework.SqlServer.dll
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\SoftUniSystem\SoftUniSystem\bin\Debug\EntityFramework.xml
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\SoftUniSystem\SoftUniSystem\bin\Debug\EntityFramework.SqlServer.xml
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\SoftUniSystem\SoftUniSystem\obj\Debug\SoftUniSystem.exe
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\SoftUniSystem\SoftUniSystem\obj\Debug\SoftUniSystem.pdb
