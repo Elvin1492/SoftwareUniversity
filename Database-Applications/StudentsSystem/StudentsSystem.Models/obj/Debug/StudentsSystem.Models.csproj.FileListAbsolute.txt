@@ -1,0 +1,9 @@
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\StudentsSystem\StudentsSystem.Models\bin\Debug\StudentsSystem.Models.dll
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\StudentsSystem\StudentsSystem.Models\bin\Debug\StudentsSystem.Models.pdb
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\StudentsSystem\StudentsSystem.Models\obj\Debug\StudentsSystem.Models.dll
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\StudentsSystem\StudentsSystem.Models\obj\Debug\StudentsSystem.Models.pdb
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\StudentsSystem\StudentsSystem.Models\bin\Debug\StudentsSystem.Models.dll.config
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\StudentsSystem\StudentsSystem.Models\bin\Debug\EntityFramework.dll
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\StudentsSystem\StudentsSystem.Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\StudentsSystem\StudentsSystem.Models\bin\Debug\EntityFramework.xml
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\StudentsSystem\StudentsSystem.Models\bin\Debug\EntityFramework.SqlServer.xml
