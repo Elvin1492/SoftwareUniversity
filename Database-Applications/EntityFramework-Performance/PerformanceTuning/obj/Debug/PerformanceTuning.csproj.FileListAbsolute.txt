@@ -1,0 +1,12 @@
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\EntityFramework-Performance\PerformanceTuning\bin\Debug\PerformanceTuning.exe.config
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\EntityFramework-Performance\PerformanceTuning\bin\Debug\PerformanceTuning.exe
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\EntityFramework-Performance\PerformanceTuning\bin\Debug\PerformanceTuning.pdb
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\EntityFramework-Performance\PerformanceTuning\bin\Debug\EntityFramework.dll
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\EntityFramework-Performance\PerformanceTuning\bin\Debug\EntityFramework.Extended.dll
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\EntityFramework-Performance\PerformanceTuning\bin\Debug\EntityFramework.SqlServer.dll
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\EntityFramework-Performance\PerformanceTuning\bin\Debug\EntityFramework.xml
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\EntityFramework-Performance\PerformanceTuning\bin\Debug\EntityFramework.Extended.xml
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\EntityFramework-Performance\PerformanceTuning\bin\Debug\EntityFramework.SqlServer.xml
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\EntityFramework-Performance\PerformanceTuning\obj\Debug\PerformanceTuning.exe
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\EntityFramework-Performance\PerformanceTuning\obj\Debug\PerformanceTuning.pdb
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\EntityFramework-Performance\PerformanceTuning\obj\Debug\PerformanceTuning.csprojResolveAssemblyReference.cache
