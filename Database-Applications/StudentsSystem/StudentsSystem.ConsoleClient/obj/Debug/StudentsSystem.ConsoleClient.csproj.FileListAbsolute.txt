@@ -1,0 +1,1 @@
+E:\Git\SoftwareUniversity\Database-Applications\StudentsSystem\StudentsSystem.ConsoleClient\bin\Debug\StudentsSystem.ConsoleClient.exe.config
