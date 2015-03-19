@@ -1,0 +1,1 @@
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\StudentXML\Student\bin\Debug\Student.exe.config

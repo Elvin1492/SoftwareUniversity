@@ -1,0 +1,6 @@
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\PocessingXML\DOMParser\bin\Debug\DOMParser.exe.config
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\PocessingXML\DOMParser\bin\Debug\DOMParser.exe
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\PocessingXML\DOMParser\bin\Debug\DOMParser.pdb
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\PocessingXML\DOMParser\obj\Debug\DOMParser.exe
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\PocessingXML\DOMParser\obj\Debug\DOMParser.pdb
+E:\C#-VisualStudio-projects\Entity-Framework\Homeworks\PocessingXML\DOMParser\obj\Debug\ProcessingXML.csprojResolveAssemblyReference.cache

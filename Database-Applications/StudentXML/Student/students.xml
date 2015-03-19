@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="library-xml2html.xsl"?>
+<students xmlns="urn:students" culture="en-US">
+  <student>
+    <name>Gosho Goshev</name>
+    <gender>male</gender>
+    <birth-date>1997-07-16</birth-date>
+    <phone-number>0883444555</phone-number>
+    <email>goshko@gmail.com</email>
+    <university>SoftUni</university>
+    <specialty>Web-development</specialty>
+    <faculty-number>1423405</faculty-number>
+    <exams>
+      <exam>
+        <name>JavaScript</name>
+        <date>2014-12-12</date>
+        <grade>5.55</grade>
+      </exam>
+      <exam>
+        <name>AngularJS</name>
+        <date>2015-01-10</date>
+        <grade>4.44</grade>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Minka Minkova</name>
+    <gender>female</gender>
+    <birth-date>1997-07-16</birth-date>
+    <email>minka@gmail.com</email>
+    <university>SoftUni</university>
+    <specialty>Mobile-development</specialty>
+    <exams>
+      <exam>
+        <name>Java</name>
+        <date>2014-06-20</date>
+        <grade>3.55</grade>
+      </exam>
+      <exam>
+        <name>Databases</name>
+        <date>2015-03-03</date>
+        <grade>4.64</grade>
+      </exam>
+    </exams>
+  </student>
+</students>
+
